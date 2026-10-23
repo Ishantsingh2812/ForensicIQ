@@ -1,0 +1,62 @@
+server:
+  port: 8080
+  error:
+    include-message: always
+    include-binding-errors: always
+
+spring:
+  application:
+    name: forensicai-backend
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/forensicai}
+    username: ${SPRING_DATASOURCE_USERNAME:postgres}
+    password: ${SPRING_DATASOURCE_PASSWORD:postgres}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: false
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+
+# Security & JWT Configuration
+security:
+  jwt:
+    secret: ${JWT_SECRET:404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970}
+    expiration-ms: ${JWT_EXPIRATION_MS:900000} # 15 minutes (short-lived)
+    refresh-expiration-ms: ${JWT_REFRESH_EXPIRATION_MS:604800000} # 7 days
+
+# Python FastAPI AI Microservice Internal Connection
+ai-service:
+  url: ${AI_SERVICE_URL:http://localhost:8000}
+  internal-token: ${AI_INTERNAL_TOKEN:forensic-ai-internal-shared-secret-key-2026}
+  connect-timeout-ms: 5000
+  read-timeout-ms: 45000
+
+# CORS
+cors:
+  allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173,http://localhost:3000}
+
+# Rate Limiting (Bucket4j)
+rate-limit:
+  capacity: 20
+  refill-tokens: 20
+  duration-minutes: 60
+
+# Actuator & OpenAPI
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html

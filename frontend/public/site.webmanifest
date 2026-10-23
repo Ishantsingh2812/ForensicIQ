@@ -1,0 +1,16 @@
+{
+  "name": "ForensicAI",
+  "short_name": "ForensicAI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
