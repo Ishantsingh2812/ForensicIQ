@@ -19,7 +19,7 @@ public class AuditController {
         this.auditLogRepository = auditLogRepository;
     }
 
-    @GetMapping("/audit")
+    @GetMapping({"/audit", "/audit-logs", "/logs"})
     public ResponseEntity<List<AuditLogEntity>> getAuditLogs() {
         return ResponseEntity.ok(auditLogRepository.findTop100ByOrderByTimestampDesc());
     }

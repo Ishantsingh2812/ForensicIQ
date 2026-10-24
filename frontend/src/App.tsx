@@ -16,6 +16,7 @@ import { Analyzer } from './routes/Analyzer';
 import { CaseStudies } from './routes/CaseStudies';
 import { CaseDetail } from './routes/CaseDetail';
 import { Simulator } from './routes/Simulator';
+import { EvidenceStudio } from './routes/EvidenceStudio';
 import { Login } from './routes/Login';
 import { Register } from './routes/Register';
 import { ThankYou } from './routes/ThankYou';
@@ -62,6 +63,7 @@ export const App: React.FC = () => {
                   <Route path="/case-studies" element={<CaseStudies />} />
                   <Route path="/case-studies/:slug" element={<CaseDetail />} />
                   <Route path="/simulator" element={<Simulator />} />
+                  <Route path="/evidence-studio" element={<EvidenceStudio />} />
                   <Route path="/login" element={<Login />} />
                   <Route path="/register" element={<Register />} />
                   <Route path="/thank-you" element={<ThankYou />} />

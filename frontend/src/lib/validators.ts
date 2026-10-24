@@ -8,10 +8,10 @@ export function validateScenario(text: string): ValidationResult {
   if (!trimmed) {
     return { isValid: false, error: 'Scenario description is required.' };
   }
-  if (trimmed.length < 50) {
+  if (trimmed.length < 5) {
     return {
       isValid: false,
-      error: `Scenario is too brief (${trimmed.length} chars). Please provide at least 50 characters of contextual facts.`,
+      error: `Scenario is too brief (${trimmed.length} chars). Please provide at least 5 characters of incident narrative.`,
     };
   }
   if (trimmed.length > 5000) {

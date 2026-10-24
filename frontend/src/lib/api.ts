@@ -7,7 +7,7 @@ import {
   User,
   WaitlistSubmission,
 } from '../types';
-import { mockDefaultAnalysisResult, mockSampleScenario } from './mocks/analysis';
+import { mockDefaultAnalysisResult, mockSampleScenario, generateDynamicAnalysis } from './mocks/analysis';
 import { mockCaseStudies } from './mocks/cases';
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8080';
@@ -197,11 +197,7 @@ export const api = {
     if (USE_MOCKS) {
       // Simulate stepped agent processing delay
       await new Promise((r) => setTimeout(r, 2200));
-      return {
-        ...mockDefaultAnalysisResult,
-        caseId: `CASE-${Date.now()}`,
-        createdAt: new Date().toISOString(),
-      };
+      return generateDynamicAnalysis(scenario, framework);
     }
 
     try {
@@ -227,15 +223,11 @@ export const api = {
       if (err.name === 'AbortError') {
         throw new ApiError(499, 'Analysis request cancelled by user.');
       }
-      // If dev mode and Spring is offline, fallback gracefully
+      // If dev mode and Spring is offline, fallback gracefully with dynamic legal parsing
       if (import.meta.env.DEV && (err.message?.includes('Failed to fetch') || err.status === 502)) {
-        console.warn('Backend unavailable, falling back to local mock analyzer result');
-        await new Promise((r) => setTimeout(r, 1500));
-        return {
-          ...mockDefaultAnalysisResult,
-          caseId: `FALLBACK-${Date.now()}`,
-          createdAt: new Date().toISOString(),
-        };
+        console.warn('Backend unavailable, running dynamic client-side legal evaluator');
+        await new Promise((r) => setTimeout(r, 1200));
+        return generateDynamicAnalysis(scenario, framework);
       }
       throw err;
     }

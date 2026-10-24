@@ -22,6 +22,9 @@ import { Button } from '../ui/Button';
 import { Badge } from '../ui/Badge';
 import { Modal } from '../ui/Modal';
 import { api } from '../../lib/api';
+import { TentativeWarningBanner } from './TentativeWarningBanner';
+import { LegalComparisonView } from './LegalComparisonView';
+import { VictimAssistancePanel } from './VictimAssistancePanel';
 
 interface ResultCardsProps {
   result: AnalysisResult;
@@ -91,8 +94,22 @@ export const ResultCards: React.FC<ResultCardsProps> = ({ result, onOpenSources 
     setFeedbackSubmitted(feedbackRating);
   };
 
+  const confidenceVal = result.prediction_confidence ?? result.predictionConfidence ?? (result.sections.length > 0 ? result.sections[0].confidence : 0.85);
+  const isTentative = result.is_tentative || result.isTentative || confidenceVal < 0.70;
+  const missingFactsList = result.missing_facts || result.missingFacts || [];
+  const clarifyingQuestionsList = result.clarifying_questions || result.clarifyingQuestions || [];
+
   return (
     <div className="space-y-6 w-full animate-in fade-in duration-300">
+      {/* Prominent Tentative Warning Banner if confidence < 70% */}
+      {isTentative && (
+        <TentativeWarningBanner
+          confidence={confidenceVal}
+          missingFacts={missingFactsList}
+          clarifyingQuestions={clarifyingQuestionsList}
+        />
+      )}
+
       {/* Header Bar: Case ID, Citations Drawer Trigger & Export Actions */}
       <div className="bg-forensic-900 border border-forensic-800 rounded-2xl p-5 shadow-xl flex flex-wrap items-center justify-between gap-4">
         <div>
@@ -171,35 +188,7 @@ export const ResultCards: React.FC<ResultCardsProps> = ({ result, onOpenSources 
 
           {openSections.acts && (
             <div className="p-5 space-y-4">
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-                {result.sections.map((sec, idx) => (
-                  <div
-                    key={idx}
-                    className="p-4 rounded-xl bg-forensic-950/70 border border-forensic-800 hover:border-forensic-700 transition-all flex flex-col justify-between space-y-2"
-                  >
-                    <div>
-                      <div className="flex items-center justify-between mb-1">
-                        <span className="text-xs font-mono font-bold px-2 py-0.5 rounded bg-forensic-800 text-evidence-cyan border border-forensic-700">
-                          {sec.act} · {sec.section}
-                        </span>
-                        <span className="text-[11px] font-mono text-legal-emerald font-semibold">
-                          {(sec.confidence * 100).toFixed(0)}% Confidence
-                        </span>
-                      </div>
-                      <h4 className="text-sm font-semibold text-slate-100">{sec.title}</h4>
-                      <p className="text-xs text-slate-400 mt-1 font-mono">
-                        <strong className="text-slate-300">Prescribed Punishment:</strong> {sec.punishment}
-                      </p>
-                    </div>
-                    {sec.bnsEquivalent && (
-                      <div className="pt-2 border-t border-forensic-800/80 text-xs text-crime-amber font-mono flex items-start gap-1">
-                        <span className="shrink-0 font-bold">↳ MAPPING:</span>
-                        <span>{sec.bnsEquivalent}</span>
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
+              <LegalComparisonView sections={result.sections} />
             </div>
           )}
         </section>
@@ -470,6 +459,9 @@ export const ResultCards: React.FC<ResultCardsProps> = ({ result, onOpenSources 
           )}
         </section>
       </div>
+
+      {/* Victim Assistance & Actionable Next Steps */}
+      <VictimAssistancePanel />
 
       {/* Persistent Disclaimer Banner */}
       <div className="p-4 rounded-2xl bg-crime-amber/10 border border-crime-amber/30 flex items-center justify-between gap-4">

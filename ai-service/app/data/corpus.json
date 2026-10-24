@@ -1,0 +1,3710 @@
+[
+  {
+    "id": "bns-sec-101-murder",
+    "act": "BNS",
+    "section": "Section 101",
+    "title": "Murder",
+    "category": "Homicide",
+    "record_type": "statute",
+    "text": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+    "simplified_text": "Defines when taking a human life constitutes murder: with deliberate intention to cause death, inflicting injury sufficient in ordinary nature to cause death, or performing an imminently dangerous act with reckless disregard for life.",
+    "keywords": [
+      "murder",
+      "culpable homicide",
+      "intention to cause death",
+      "bodily injury",
+      "imminently dangerous"
+    ],
+    "related_sections": [
+      "BNS Section 103",
+      "BNS Section 105",
+      "IPC Section 300"
+    ],
+    "related_cases": [
+      "KM Nanavati v. State of Maharashtra",
+      "Virsa Singh v. State of Punjab"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-103-punishment-murder",
+    "act": "BNS",
+    "section": "Section 103",
+    "title": "Punishment for Murder",
+    "category": "Homicide",
+    "record_type": "statute",
+    "text": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine. (2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.",
+    "simplified_text": "Prescribes punishment for murder as death sentence or life imprisonment, plus fine. Also introduces specific statutory punishment for mob lynching and hate-driven group murder by five or more persons.",
+    "keywords": [
+      "punishment for murder",
+      "death penalty",
+      "life imprisonment",
+      "mob lynching",
+      "hate crime"
+    ],
+    "related_sections": [
+      "BNS Section 101",
+      "IPC Section 302"
+    ],
+    "related_cases": [
+      "Bachan Singh v. State of Punjab (1980)",
+      "Machhi Singh v. State of Punjab (1983)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-109-attempt-murder",
+    "act": "BNS",
+    "section": "Section 109",
+    "title": "Attempt to Murder",
+    "category": "Homicide",
+    "record_type": "statute",
+    "text": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.",
+    "simplified_text": "Punishes acts done with the intention or knowledge to cause death if the victim survives. Punishable by up to 10 years imprisonment; if physical hurt is caused, penalty extends up to life imprisonment.",
+    "keywords": [
+      "attempt to murder",
+      "intent to kill",
+      "survived attack",
+      "gunshot wound",
+      "stab attempt"
+    ],
+    "related_sections": [
+      "BNS Section 101",
+      "IPC Section 307"
+    ],
+    "related_cases": [
+      "State of Maharashtra v. Balram Bama Patil (1983)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-115-voluntarily-causing-hurt",
+    "act": "BNS",
+    "section": "Section 115",
+    "title": "Voluntarily causing hurt and voluntarily causing grievous hurt",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "(1) Whoever voluntarily causes hurt shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both. (2) Whoever voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "simplified_text": "Distinguishes between simple physical hurt (punishable up to 1 year or ₹10,000 fine) and weaponized grievous hurt (using knives, guns, fire, acid, explosives, or poison, punishable with up to 10 years or life imprisonment).",
+    "keywords": [
+      "voluntarily causing hurt",
+      "grievous hurt",
+      "dangerous weapon",
+      "knife stabbing",
+      "acid attack",
+      "fracture"
+    ],
+    "related_sections": [
+      "BNS Section 116",
+      "BNS Section 117",
+      "BNS Section 118",
+      "IPC Section 323",
+      "IPC Section 324",
+      "IPC Section 326"
+    ],
+    "related_cases": [
+      "State of Karnataka v. Shivalingaiah (1988)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-116-grievous-hurt-defined",
+    "act": "BNS",
+    "section": "Section 116",
+    "title": "Grievous Hurt Defined",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "The following kinds of hurt only are designated as grievous: First.— Emasculation. Secondly.— Permanent privation of the sight of either eye. Thirdly.— Permanent privation of the hearing of either ear. Fourthly.— Privation of any member or joint. Fifthly.— Destruction or permanent impairing of the powers of any member or joint. Sixthly.— Permanent disfiguration of the head or face. Seventhly.— Fracture or dislocation of a bone or tooth. Eighthly.— Any hurt which endangers life or which causes the sufferer to be during the space of fifteen days in severe bodily pain, or unable to follow his ordinary pursuits.",
+    "simplified_text": "Sets strict statutory thresholds for grievous injury: loss of eyesight, hearing, loss or impairment of limb/joint, facial disfiguration, bone or tooth fracture/dislocation, or any hurt endangering life or disabling ordinary pursuits for 15 days.",
+    "keywords": [
+      "grievous hurt definition",
+      "bone fracture",
+      "dislocation",
+      "loss of eye",
+      "severe bodily pain",
+      "life endangering"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "IPC Section 320"
+    ],
+    "related_cases": [
+      "Rambaran Mahton v. The State (1958)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-124-acid-attack",
+    "act": "BNS",
+    "section": "Section 124",
+    "title": "Causing grievous hurt by use of acid, etc.",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "(1) Whoever causes permanent or partial damage or deformity to, or bles, or disfigures or disables, any part or parts of the body of a person or causes grievous hurt by throwing acid on or by administering acid to that person, or by using any other means with the intention of causing or with the knowledge that he is likely to cause such injury or hurt, shall be punished with imprisonment of either description for a term which shall not be less than ten years but which may extend to imprisonment for life, and with fine which shall be just and reasonable to meet the medical expenses of the treatment of the victim.",
+    "simplified_text": "Specific statutory provision punishing acid throwing causing deformity, disfigurement, or grievous hurt. Mandatory minimum 10 years up to life imprisonment, with fine dedicated to victim medical rehabilitation.",
+    "keywords": [
+      "acid attack",
+      "corrosive substance",
+      "disfigurement",
+      "chemical burns",
+      "victim compensation"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "IPC Section 326A"
+    ],
+    "related_cases": [
+      "Laxmi v. Union of India (2014)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-131-assault-simple-force",
+    "act": "BNS",
+    "section": "Section 131",
+    "title": "Assault or criminal force otherwise than on grave provocation",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+    "simplified_text": "Governs minor non-injurious physical encounters: simple slap, shove, push, or menacing gesture without visible laceration, fracture, or weapon. Maximum penalty is 3 months imprisonment or ₹1,000 fine.",
+    "keywords": [
+      "simple slap",
+      "push",
+      "shove",
+      "criminal force",
+      "assault without injury",
+      "train quarrel",
+      "minor altercation"
+    ],
+    "related_sections": [
+      "BNS Section 130",
+      "BNS Section 115",
+      "IPC Section 352"
+    ],
+    "related_cases": [
+      "Bihari Lal v. Emperor (1934)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-132-assault-public-servant",
+    "act": "BNS",
+    "section": "Section 132",
+    "title": "Assault or criminal force to deter public servant from discharge of his duty",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+    "simplified_text": "Elevates assault or criminal force to a serious offence if committed against an on-duty public servant (police, magistrate, ticket collector, healthcare worker). Punishable up to 5 years imprisonment.",
+    "keywords": [
+      "assault on police",
+      "public servant",
+      "ticket collector assault",
+      "obstructing officer",
+      "hospital duty attack"
+    ],
+    "related_sections": [
+      "BNS Section 131",
+      "IPC Section 353"
+    ],
+    "related_cases": [
+      "Durgacharan Naik v. State of Orissa (1966)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-303-theft",
+    "act": "BNS",
+    "section": "Section 303",
+    "title": "Theft",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "(1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. (2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both: Provided that in cases of theft where the value of the stolen property is less than five thousand rupees, and a person is convicted for the first time, shall be punished with community service.",
+    "simplified_text": "Defines theft as dishonestly moving movable property without consent. Up to 3 years imprisonment or fine. Introduces community service for first-time offenders where property value is under ₹5,000.",
+    "keywords": [
+      "theft",
+      "pickpocketing",
+      "stolen phone",
+      "purse theft",
+      "dishonest taking",
+      "petty theft",
+      "community service"
+    ],
+    "related_sections": [
+      "BNS Section 304",
+      "BNS Section 305",
+      "IPC Section 378",
+      "IPC Section 379"
+    ],
+    "related_cases": [
+      "Pyare Lal Bhargava v. State of Rajasthan (1963)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-304-snatching",
+    "act": "BNS",
+    "section": "Section 304",
+    "title": "Snatching",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "(1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property. (2) Whoever commits snatching shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "simplified_text": "New distinct statutory offence in BNS 2023: specifically penalizes snatching of gold chains, mobile phones, or bags where property is seized suddenly, quickly, or forcibly from person or possession. Up to 3 years imprisonment and fine.",
+    "keywords": [
+      "snatching",
+      "chain snatching",
+      "phone snatching",
+      "bike snatchers",
+      "grabbed bag",
+      "quick seizure"
+    ],
+    "related_sections": [
+      "BNS Section 303",
+      "BNS Section 309",
+      "IPC Section 379",
+      "IPC Section 390"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-305-theft-in-dwelling",
+    "act": "BNS",
+    "section": "Section 305",
+    "title": "Theft in dwelling house, or means of transportation or place of worship, etc.",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, or in any place of worship, or in any means of transportation used for the transport of persons or goods, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "simplified_text": "Aggravated theft committed inside a residence, place of worship, warehouse, or public transport (train, bus, plane). Punishable by up to 7 years rigorous imprisonment and fine.",
+    "keywords": [
+      "theft in house",
+      "temple theft",
+      "train luggage theft",
+      "warehouse break-in",
+      "dwelling theft"
+    ],
+    "related_sections": [
+      "BNS Section 303",
+      "IPC Section 380"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-309-robbery",
+    "act": "BNS",
+    "section": "Section 309",
+    "title": "Robbery",
+    "category": "Robbery",
+    "record_type": "statute",
+    "text": "(1) In all robbery there is either theft or extortion. Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint. (2) Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years. (4) If, at the time of committing or attempting to commit robbery, the offender is armed with any deadly weapon, or causes grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+    "simplified_text": "Theft accompanied by violence, hurt, restraint, or threat of instant harm is robbery. Punishable with up to 10 years (14 years on highway at night). If armed with a deadly weapon or causing grievous hurt, mandatory minimum sentence is 7 years.",
+    "keywords": [
+      "robbery",
+      "armed robbery",
+      "highway robbery",
+      "held at gunpoint",
+      "knife robbery",
+      "mandatory minimum"
+    ],
+    "related_sections": [
+      "BNS Section 303",
+      "BNS Section 310",
+      "BNS Section 311",
+      "IPC Section 390",
+      "IPC Section 392",
+      "IPC Section 397"
+    ],
+    "related_cases": [
+      "Phool Kumar v. Delhi Administration (AIR 1975 SC 905)",
+      "Sanjay v. State of U.P. (2016)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-310-dacoity",
+    "act": "BNS",
+    "section": "Section 310",
+    "title": "Dacoity",
+    "category": "Robbery",
+    "record_type": "statute",
+    "text": "(1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity. (2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "simplified_text": "Robbery committed or attempted by five or more persons acting together constitutes dacoity. Punishable by life imprisonment or rigorous imprisonment up to 10 years and fine.",
+    "keywords": [
+      "dacoity",
+      "gang robbery",
+      "five or more armed robbers",
+      "bank dacoity",
+      "joint armed heist"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "BNS Section 311",
+      "IPC Section 391",
+      "IPC Section 395"
+    ],
+    "related_cases": [
+      "Ram Shankar Singh v. State of U.P. (1956)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-318-cheating",
+    "act": "BNS",
+    "section": "Section 318",
+    "title": "Cheating",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived... is said to cheat. (4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person... shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "simplified_text": "Penalizes dishonest deception causing financial or property loss, including online fraud, impersonation, and fraudulent business scams. Punishable by up to 7 years imprisonment and fine under sub-section (4).",
+    "keywords": [
+      "cheating",
+      "fraud",
+      "scam",
+      "crypto fraud",
+      "online banking fraud",
+      "false pretenses",
+      "phishing"
+    ],
+    "related_sections": [
+      "BNS Section 316",
+      "IPC Section 415",
+      "IPC Section 420"
+    ],
+    "related_cases": [
+      "Hridaya Ranjan Prasad Verma v. State of Bihar (2000)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-324-mischief-property-damage",
+    "act": "BNS",
+    "section": "Section 324",
+    "title": "Mischief",
+    "category": "Property Damage",
+    "record_type": "statute",
+    "text": "(1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief. (2) Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (4) Whoever commits mischief and thereby causes loss or damage to any property of the value of twenty thousand rupees and upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "simplified_text": "Penalizes intentional destruction or damage of property, such as smashing shop windows, vandalizing vehicles, burning goods, or defacing buildings. Punishable by up to 2 years if property damage exceeds ₹20,000.",
+    "keywords": [
+      "mischief",
+      "property damage",
+      "vandalism",
+      "broke shop window",
+      "smashed car",
+      "destruction of property"
+    ],
+    "related_sections": [
+      "BNS Section 326",
+      "IPC Section 425",
+      "IPC Section 427"
+    ],
+    "related_cases": [
+      "Indian Oil Corporation v. NEPC India Ltd (2006)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-351-criminal-intimidation",
+    "act": "BNS",
+    "section": "Section 351",
+    "title": "Criminal Intimidation",
+    "category": "Extortion",
+    "record_type": "statute",
+    "text": "(1) Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do... commits criminal intimidation. (2) Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; and if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire... shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (3) Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence under sub-section (2).",
+    "simplified_text": "Penalizes threats of bodily harm, death, or property damage issued verbally, via phone, WhatsApp, or email. Up to 2 years for simple intimidation; up to 7 years if threatening death or grievous hurt; additional 2 years if sent anonymously.",
+    "keywords": [
+      "criminal intimidation",
+      "death threats",
+      "whatsapp threat",
+      "extortion call",
+      "blackmail",
+      "anonymous threat message",
+      "verbal threat"
+    ],
+    "related_sections": [
+      "BNS Section 308",
+      "IPC Section 503",
+      "IPC Section 506",
+      "IPC Section 507"
+    ],
+    "related_cases": [
+      "Kanshi Ram v. State (2000)",
+      "Romesh Chandra Arora v. The State (1960)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-352-intentional-insult",
+    "act": "BNS",
+    "section": "Section 352",
+    "title": "Intentional insult with intent to provoke breach of the peace",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "simplified_text": "Punishes abusive verbal harassment or insults aimed at provoking a physical fight or public brawl. Up to 2 years imprisonment or fine.",
+    "keywords": [
+      "verbal abuse",
+      "intentional insult",
+      "provocation",
+      "public fight",
+      "breach of peace"
+    ],
+    "related_sections": [
+      "BNS Section 351",
+      "IPC Section 504"
+    ],
+    "related_cases": [
+      "Fiona Shrikhande v. State of Maharashtra (2013)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-3-common-intention",
+    "act": "BNS",
+    "section": "Section 3(5)",
+    "title": "Joint Liability and Common Intention",
+    "category": "Procedure",
+    "record_type": "statute",
+    "text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+    "simplified_text": "Establishes joint liability: if multiple conspirators execute a crime with shared pre-arranged understanding, all are equally responsible regardless of who struck the physical blow.",
+    "keywords": [
+      "common intention",
+      "joint liability",
+      "co-accused",
+      "driver and shooter",
+      "shared criminal plan"
+    ],
+    "related_sections": [
+      "BNS Section 61",
+      "IPC Section 34"
+    ],
+    "related_cases": [
+      "Barendra Kumar Ghosh v. King Emperor (1925)",
+      "Pandurang v. State of Hyderabad (1955)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-35-arrest-procedure",
+    "act": "BNSS",
+    "section": "Section 35",
+    "title": "When police may arrest without warrant",
+    "category": "Procedure",
+    "record_type": "procedure",
+    "text": "(1) Any police officer may without an order from a Magistrate and without a warrant, arrest any person who commits in the presence of a police officer, a cognizable offence... Provided that for offences punishable with imprisonment for a term which may be less than seven years, police shall not arrest without prior permission of an officer not below Deputy Superintendent of Police, or as regulated by statutory guidelines.",
+    "simplified_text": "Regulates warrantless arrest in cognizable cases. Enforces Arnesh Kumar safeguards: arrests are not automatic for offences punishable by 7 years or less, requiring written recorded justification.",
+    "keywords": [
+      "warrantless arrest",
+      "cognizable arrest",
+      "notice of appearance",
+      "arrest guidelines"
+    ],
+    "related_sections": [
+      "BNSS Section 43",
+      "CrPC Section 41",
+      "CrPC Section 41A"
+    ],
+    "related_cases": [
+      "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-173-fir-registration",
+    "act": "BNSS",
+    "section": "Section 173",
+    "title": "Information in cognizable cases (First Information Report & Zero FIR)",
+    "category": "Procedure",
+    "record_type": "procedure",
+    "text": "(1) Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer: Provided that if the information is given by the woman against whom an offence under sexual offences is alleged to have been committed, such information shall be recorded by a woman police officer: Provided further that information relating to the commission of any cognizable offence may be given irrespective of the area where the offence was committed, and such police station shall register a Zero FIR and transfer the same to the police station having jurisdiction.",
+    "simplified_text": "Mandatory FIR registration for cognizable crimes. Explicitly codifies Zero FIR into Indian statutory law: any police station must register the complaint regardless of territorial jurisdiction and transfer it subsequently.",
+    "keywords": [
+      "FIR",
+      "Zero FIR",
+      "cognizable reporting",
+      "police duty to register",
+      "informant rights"
+    ],
+    "related_sections": [
+      "BNSS Section 175",
+      "CrPC Section 154"
+    ],
+    "related_cases": [
+      "Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-176-videography-investigation",
+    "act": "BNSS",
+    "section": "Section 176",
+    "title": "Procedure for investigation and videography of crime scene",
+    "category": "Procedure",
+    "record_type": "procedure",
+    "text": "(3) On receipt of every information relating to the commission of an offence punishable with imprisonment for seven years or more, the officer in charge of a police station shall cause the forensic experts to visit the crime scene and collect forensic evidence, and cause videography of the crime scene including collection of evidence by mobile phone or any other electronic device.",
+    "simplified_text": "Mandates forensic expert attendance and compulsory audio-video recording of crime scenes and evidence collection for all serious crimes punishable with 7 years imprisonment or more.",
+    "keywords": [
+      "mandatory forensic visit",
+      "crime scene videography",
+      "electronic evidence recording",
+      "evidence integrity"
+    ],
+    "related_sections": [
+      "BNSS Section 173",
+      "BSA Section 63",
+      "CrPC Section 157"
+    ],
+    "related_cases": [
+      "Shafhi Mohammad v. State of H.P. (2018)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-395-victim-compensation",
+    "act": "BNSS",
+    "section": "Section 395",
+    "title": "Victim Compensation Scheme",
+    "category": "Procedure",
+    "record_type": "procedure",
+    "text": "(1) Every State Government in co-ordination with the Central Government shall prepare a scheme for providing funds for the purpose of compensation to the victim or his dependents who have suffered loss or injury as a result of the crime and who require rehabilitation.",
+    "simplified_text": "Statutory victim compensation framework providing immediate financial aid, medical assistance, and rehabilitation for assault, acid attack, rape, and accident victims irrespective of whether offender is convicted.",
+    "keywords": [
+      "victim compensation",
+      "rehabilitation fund",
+      "medical expenses",
+      "state compensation scheme"
+    ],
+    "related_sections": [
+      "CrPC Section 357A"
+    ],
+    "related_cases": [
+      "Nipun Saxena v. Union of India (2019)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-23-discovery-confession",
+    "act": "BSA",
+    "section": "Section 23",
+    "title": "Information received from accused leading to discovery of fact",
+    "category": "Evidence",
+    "record_type": "procedure",
+    "text": "Provided that, when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.",
+    "simplified_text": "Allows admission in evidence of facts discovered pursuant to an accused person's disclosure in custody (e.g. recovering the hidden murder weapon, stolen jewelry, or bloodstained garments based on accused statements).",
+    "keywords": [
+      "discovery of weapon",
+      "recovery panchnama",
+      "disclosure statement",
+      "recovered stolen goods",
+      "section 27 evidence"
+    ],
+    "related_sections": [
+      "IEA Section 27",
+      "BNSS Section 175"
+    ],
+    "related_cases": [
+      "Pulukuri Kotayya v. King Emperor (1947)",
+      "State of Karnataka v. David Rozario (2002)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-63-electronic-records",
+    "act": "BSA",
+    "section": "Section 63",
+    "title": "Admissibility of Electronic Records",
+    "category": "Evidence",
+    "record_type": "procedure",
+    "text": "(1) Notwithstanding anything contained in this Adhimiyam, any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media or cloud storage... produced by a computer shall be deemed to be also a document... (4) In any proceedings where it is desired to give a statement in evidence by virtue of this section, a certificate doing any of the following things, that is to say, identifying the electronic record containing the statement... signed by a person occupying a responsible official position in relation to the operation of the relevant device... shall be evidence of any matter stated in the certificate.",
+    "simplified_text": "Establishes modern digital evidence admissibility rules (formerly Section 65B IEA). Explicitly incorporates cloud storage, mobile DVRs, and cryptographic hash verification alongside mandatory electronic certificate.",
+    "keywords": [
+      "electronic record",
+      "cctv evidence",
+      "whatsapp screenshot",
+      "mobile forensic certificate",
+      "section 65b equivalent",
+      "digital hash"
+    ],
+    "related_sections": [
+      "BSA Section 61",
+      "BSA Section 62",
+      "IEA Section 65B"
+    ],
+    "related_cases": [
+      "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020) 7 SCC 1",
+      "Anvar P.V. v. P.K. Basheer (2014) 10 SCC 473"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-20-cannabis",
+    "act": "NDPS",
+    "section": "Section 20",
+    "title": "Punishment for contravention in relation to cannabis plant and cannabis",
+    "category": "Narcotics",
+    "record_type": "statute",
+    "text": "Whoever, in contravention of any provision of this Act or any rule or order made or condition of licence granted thereunder: (b) produces, manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses cannabis, shall be punishable: (i) where such contravention relates to small quantity, with rigorous imprisonment for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both; (ii) where such contravention relates to quantity lesser than commercial quantity but greater than small quantity, with rigorous imprisonment for a term which may extend to ten years and with fine which may extend to one lakh rupees; (iii) where such contravention relates to commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees.",
+    "simplified_text": "Penalizes possession, transport, and sale of cannabis across small, intermediate, and commercial quantities. Commercial quantity triggers mandatory minimum 10 years rigorous imprisonment.",
+    "keywords": [
+      "cannabis",
+      "ganja",
+      "charas",
+      "narcotic seizure",
+      "commercial quantity",
+      "small quantity"
+    ],
+    "related_sections": [
+      "NDPS Section 37",
+      "NDPS Section 50"
+    ],
+    "related_cases": [
+      "State of Punjab v. Baldev Singh (1999)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-22-psychotropic-substances",
+    "act": "NDPS",
+    "section": "Section 22",
+    "title": "Punishment for contravention in relation to psychotropic substances",
+    "category": "Narcotics",
+    "record_type": "statute",
+    "text": "Whoever, in contravention of any provision of this Act... manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses any psychotropic substance shall be punishable: (c) where the contravention involves commercial quantity, with rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years and shall also be liable to fine which shall not be less than one lakh rupees but which may extend to two lakh rupees.",
+    "simplified_text": "Penalizes synthetic drugs including MDMA, methamphetamine, LSD, and fentanyl. Commercial quantities mandate 10 to 20 years rigorous imprisonment.",
+    "keywords": [
+      "MDMA",
+      "synthetic drugs",
+      "methamphetamine",
+      "psychotropic substance",
+      "commercial drug seizure",
+      "narcotics checkpoint"
+    ],
+    "related_sections": [
+      "NDPS Section 20",
+      "NDPS Section 37",
+      "NDPS Section 50"
+    ],
+    "related_cases": [
+      "Union of India v. Ram Samujh (1999)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-50-search-conditions",
+    "act": "NDPS",
+    "section": "Section 50",
+    "title": "Conditions under which search of persons shall be conducted",
+    "category": "Narcotics",
+    "record_type": "procedure",
+    "text": "(1) When any officer duly authorised under section 42 is about to search any person under the provisions of section 41, section 42 or section 43, he shall, if such person so requires, take such person without unnecessary delay to the nearest Gazetted Officer of any of the departments mentioned in section 42 or to the nearest Magistrate.",
+    "simplified_text": "Mandatory constitutional safeguard in NDPS body searches: suspect has the statutory right to be informed in writing and searched only in the presence of a Gazetted Officer or Magistrate. Non-compliance vitiates the seizure.",
+    "keywords": [
+      "section 50 NDPS",
+      "personal search",
+      "gazetted officer search",
+      "magistrate presence",
+      "panch witness"
+    ],
+    "related_sections": [
+      "NDPS Section 42",
+      "NDPS Section 37"
+    ],
+    "related_cases": [
+      "State of Punjab v. Baldev Singh (1999) 6 SCC 172",
+      "Vijaysinh Chandubha Jadeja v. State of Gujarat (2011) 1 SCC 609"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-act-sec-66-computer-crimes",
+    "act": "IT_ACT",
+    "section": "Section 66",
+    "title": "Computer related offences (Hacking & Data Theft)",
+    "category": "Cybercrime",
+    "record_type": "statute",
+    "text": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.",
+    "simplified_text": "Criminalizes unauthorized computer access, data extraction, malware deployment, server disruption, and cyber extortion. Up to 3 years imprisonment and ₹5 Lakh fine.",
+    "keywords": [
+      "hacking",
+      "ransomware",
+      "unauthorized access",
+      "data breach",
+      "compromised vpn",
+      "cyber theft"
+    ],
+    "related_sections": [
+      "IT Act Section 43",
+      "BNS Section 303",
+      "BNS Section 318"
+    ],
+    "related_cases": [
+      "Shreya Singhal v. Union of India (2015)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2000-10-17",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-act-sec-66c-identity-theft",
+    "act": "IT_ACT",
+    "section": "Section 66C",
+    "title": "Punishment for identity theft",
+    "category": "Cybercrime",
+    "record_type": "statute",
+    "text": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine with may extend to rupees one lakh.",
+    "simplified_text": "Penalizes stealing or abusing another person's password, OTP, biometric data, digital signature, or account credentials. Up to 3 years imprisonment and ₹1 Lakh fine.",
+    "keywords": [
+      "identity theft",
+      "stolen password",
+      "otp theft",
+      "compromised credentials",
+      "credential stuffing"
+    ],
+    "related_sections": [
+      "IT Act Section 66D",
+      "BNS Section 318"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2008-10-27",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-act-sec-66d-cheating-by-impersonation",
+    "act": "IT_ACT",
+    "section": "Section 66D",
+    "title": "Punishment for cheating by personation by using computer resource",
+    "category": "Cybercrime",
+    "record_type": "statute",
+    "text": "Whoever, by means of any communication device or computer resource cheats by personating, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+    "simplified_text": "Penalizes online impersonation scams: posing as bank manager, police officer, or government agency on WhatsApp/calls to deceive victims and steal funds. Up to 3 years imprisonment.",
+    "keywords": [
+      "cyber impersonation",
+      "fake profile",
+      "phishing call",
+      "fake bank executive scam",
+      "online cheating"
+    ],
+    "related_sections": [
+      "IT Act Section 66C",
+      "BNS Section 318(4)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2008-10-27",
+    "historical_law_status": "ACTIVE_SPECIAL_ACT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-302-murder",
+    "act": "IPC",
+    "section": "Section 302",
+    "title": "Punishment for murder",
+    "category": "Homicide",
+    "record_type": "statute",
+    "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "simplified_text": "Legacy IPC murder penalty. Applies to offenses committed prior to July 1, 2024. Replaced by Section 103(1) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 302",
+      "murder",
+      "death penalty",
+      "historical murder statute"
+    ],
+    "related_sections": [
+      "BNS Section 103",
+      "IPC Section 300"
+    ],
+    "related_cases": [
+      "Bachan Singh v. State of Punjab (1980)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-307-attempt-murder",
+    "act": "IPC",
+    "section": "Section 307",
+    "title": "Attempt to murder",
+    "category": "Homicide",
+    "record_type": "statute",
+    "text": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.",
+    "simplified_text": "Legacy IPC attempt to murder provision. Replaced by Section 109 of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 307",
+      "attempted murder",
+      "gunshot survivor",
+      "stab wound"
+    ],
+    "related_sections": [
+      "BNS Section 109"
+    ],
+    "related_cases": [
+      "State of Maharashtra v. Balram Bama Patil (1983)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-323-simple-hurt",
+    "act": "IPC",
+    "section": "Section 323",
+    "title": "Punishment for voluntarily causing hurt",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "simplified_text": "Legacy IPC simple hurt punishment. Replaced by Section 115(1) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 323",
+      "simple hurt",
+      "physical blow",
+      "minor injury"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "IPC Section 319"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-326-grievous-hurt-weapon",
+    "act": "IPC",
+    "section": "Section 326",
+    "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death... shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "simplified_text": "Legacy IPC weaponized grievous hurt provision. Replaced by Section 115(2) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 326",
+      "weapon attack",
+      "machete blow",
+      "severe fracture",
+      "life imprisonment"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "IPC Section 320"
+    ],
+    "related_cases": [
+      "State of Karnataka v. Shivalingaiah (1988)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-352-assault-punishment",
+    "act": "IPC",
+    "section": "Section 352",
+    "title": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "category": "Assault",
+    "record_type": "statute",
+    "text": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+    "simplified_text": "Legacy IPC provision punishing assault or criminal force without physical injury (e.g. simple slap or shove). Replaced by Section 131 of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 352",
+      "simple slap",
+      "push",
+      "assault gesture",
+      "minor scuffle"
+    ],
+    "related_sections": [
+      "BNS Section 131",
+      "IPC Section 351"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-379-theft-punishment",
+    "act": "IPC",
+    "section": "Section 379",
+    "title": "Punishment for theft",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "simplified_text": "Legacy IPC theft provision. Replaced by Section 303(2) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 379",
+      "theft",
+      "stolen wallet",
+      "pickpocket"
+    ],
+    "related_sections": [
+      "BNS Section 303",
+      "IPC Section 378"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-392-robbery-punishment",
+    "act": "IPC",
+    "section": "Section 392",
+    "title": "Punishment for robbery",
+    "category": "Robbery",
+    "record_type": "statute",
+    "text": "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "simplified_text": "Legacy IPC robbery punishment. Replaced by Section 309(2) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 392",
+      "robbery",
+      "highway robbery",
+      "mugging"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "IPC Section 390"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-397-robbery-deadly-weapon",
+    "act": "IPC",
+    "section": "Section 397",
+    "title": "Robbery or dacoity, with attempt to cause death or grievous hurt",
+    "category": "Robbery",
+    "record_type": "statute",
+    "text": "If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+    "simplified_text": "Legacy IPC armed robbery statute carrying mandatory 7-year minimum. Replaced by Section 309(4) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 397",
+      "armed robbery",
+      "uses weapon",
+      "7 years minimum",
+      "firearm brandishing"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "IPC Section 390"
+    ],
+    "related_cases": [
+      "Phool Kumar v. Delhi Administration (AIR 1975 SC 905)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-420-cheating-fraud",
+    "act": "IPC",
+    "section": "Section 420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "category": "Theft",
+    "record_type": "statute",
+    "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security... shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "simplified_text": "Legacy IPC 420 cheating statute. Replaced by Section 318(4) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 420",
+      "cheating",
+      "fraud",
+      "420 scam",
+      "delivery of property"
+    ],
+    "related_sections": [
+      "BNS Section 318",
+      "IPC Section 415"
+    ],
+    "related_cases": [
+      "Hridaya Ranjan Prasad Verma v. State of Bihar (2000)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-427-mischief-damages",
+    "act": "IPC",
+    "section": "Section 427",
+    "title": "Mischief causing damage to the amount of fifty rupees",
+    "category": "Property Damage",
+    "record_type": "statute",
+    "text": "Whoever commits mischief and thereby causes loss or damage to the amount of fifty rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "simplified_text": "Legacy IPC property damage statute. Replaced by Section 324(4) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 427",
+      "mischief",
+      "property damage",
+      "broken glass",
+      "vandalism"
+    ],
+    "related_sections": [
+      "BNS Section 324",
+      "IPC Section 425"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-sec-506-criminal-intimidation",
+    "act": "IPC",
+    "section": "Section 506",
+    "title": "Punishment for criminal intimidation",
+    "category": "Extortion",
+    "record_type": "statute",
+    "text": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; and if the threat be to cause death or grievous hurt... shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "simplified_text": "Legacy IPC criminal intimidation statute. Replaced by Section 351(2) of Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 506",
+      "criminal intimidation",
+      "threat to kill",
+      "whatsapp threat",
+      "extortion threat"
+    ],
+    "related_sections": [
+      "BNS Section 351",
+      "IPC Section 503"
+    ],
+    "related_cases": [
+      "Kanshi Ram v. State (2000)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "REPLACED",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-lalita-kumari-fir",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1",
+    "category": "Procedure",
+    "record_type": "judgment",
+    "text": "The Constitution Bench of the Supreme Court held that registration of FIR is mandatory under Section 154 of the Code of Criminal Procedure (now Section 173 BNSS), if the information discloses commission of a cognizable offence and no preliminary inquiry is permissible in such a situation. If the information does not disclose a cognizable offence but indicates the necessity for an inquiry, a preliminary inquiry may be conducted only to ascertain whether cognizable offence is disclosed or not within seven days.",
+    "simplified_text": "Supreme Court landmark ruling: Police are legally mandated to register an FIR upon receiving information disclosing a cognizable offense; refusing to register an FIR is punishable misconduct.",
+    "keywords": [
+      "mandatory FIR",
+      "Lalita Kumari",
+      "police refusal to file FIR",
+      "cognizable reporting",
+      "preliminary inquiry"
+    ],
+    "related_sections": [
+      "BNSS Section 173",
+      "CrPC Section 154"
+    ],
+    "related_cases": [],
+    "source_url": "https://main.sci.gov.in/judgment/judis/40966.pdf",
+    "publication_date": "2013-11-12",
+    "effective_date": "2013-11-12",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-phool-kumar-weapon",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Phool Kumar v. Delhi Administration (AIR 1975 SC 905)",
+    "category": "Robbery",
+    "record_type": "judgment",
+    "text": "The Supreme Court interpreted the word 'uses' in Section 397 IPC (corresponding to Section 309(4) BNS). The Court held that the word 'uses' does not require that the weapon must be discharged or that physical injury must be inflicted. Holding out, brandishing, or displaying a firearm or deadly weapon to overawe or terrorize the victim in the course of robbery satisfies the statutory requirement of 'uses'. However, Section 397 applies only to the individual offender who actually carries or brandishes the weapon, and not vicariously to unarmed co-accused.",
+    "simplified_text": "Supreme Court held that brandishing a weapon during robbery constitutes 'use' under Section 397 IPC / 309(4) BNS even without firing, but vicarious liability cannot be applied to co-assailants who carried no weapon.",
+    "keywords": [
+      "Phool Kumar",
+      "weapon use in robbery",
+      "brandishing gun",
+      "individual liability",
+      "knife display"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "IPC Section 397"
+    ],
+    "related_cases": [],
+    "source_url": "https://main.sci.gov.in/judgment/judis/7625.pdf",
+    "publication_date": "1975-03-03",
+    "effective_date": "1975-03-03",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-arjun-panditrao-electronic",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020) 7 SCC 1",
+    "category": "Evidence",
+    "record_type": "judgment",
+    "text": "A three-judge bench of the Supreme Court held that the certificate required under Section 65B(4) of the Evidence Act (now Section 63 BSA) is a condition precedent to the admissibility of evidence by way of electronic record in secondary evidence. Oral evidence in the place of such certificate cannot suffice. However, where a person cannot procure the certificate despite bona fide efforts, the court may exercise its powers to summon the requisite certificate from the custodian of the device.",
+    "simplified_text": "Supreme Court held that an electronic evidence certificate (under Section 65B IEA / Section 63 BSA) is mandatory before electronic evidence like CCTV or call records can be admitted into court.",
+    "keywords": [
+      "Arjun Panditrao",
+      "65B certificate",
+      "electronic record admissibility",
+      "CCTV certification",
+      "BSA Section 63"
+    ],
+    "related_sections": [
+      "BSA Section 63",
+      "IEA Section 65B"
+    ],
+    "related_cases": [
+      "Anvar P.V. v. P.K. Basheer (2014)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/47746.pdf",
+    "publication_date": "2020-07-14",
+    "effective_date": "2020-07-14",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-arnesh-kumar-arrest",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273",
+    "category": "Procedure",
+    "record_type": "judgment",
+    "text": "The Supreme Court issued mandatory directions to all State Governments and police forces to curb unnecessary and mechanical arrests in offences punishable with imprisonment up to seven years. Police officers must serve a notice of appearance under Section 41A CrPC (now Section 35(3) BNSS) within two weeks from the date of institution of the case, and recorded reasons must be submitted to the Magistrate if an arrest is effected.",
+    "simplified_text": "Landmark ruling prohibiting mechanical arrests for offences punishable with up to 7 years imprisonment. Mandates serving notice of appearance and filing recorded reasons before Magistrates.",
+    "keywords": [
+      "Arnesh Kumar",
+      "preventing mechanical arrest",
+      "notice of appearance",
+      "7 years threshold",
+      "BNSS Section 35"
+    ],
+    "related_sections": [
+      "BNSS Section 35",
+      "CrPC Section 41A"
+    ],
+    "related_cases": [],
+    "source_url": "https://main.sci.gov.in/judgment/judis/41738.pdf",
+    "publication_date": "2014-07-02",
+    "effective_date": "2014-07-02",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-dk-basu-custodial",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "D.K. Basu v. State of West Bengal (AIR 1997 SC 610)",
+    "category": "Procedure",
+    "record_type": "judgment",
+    "text": "The Supreme Court laid down 11 mandatory guidelines to prevent custodial violence and safeguard the rights of arrested persons. These include: identification tags for arresting officers, preparation of arrest memo attested by at least one witness, informing a relative/friend within 8 to 12 hours, recording inspection of major/minor injuries in an inspection memo, and medical examination by a trained medical officer every 48 hours during detention.",
+    "simplified_text": "Supreme Court's foundational custodial safeguard guidelines: requiring arrest memos, informing next-of-kin within 12 hours, and mandatory medical examination every 48 hours to prevent custodial torture.",
+    "keywords": [
+      "DK Basu guidelines",
+      "custodial rights",
+      "arrest memo",
+      "medical examination of detainee",
+      "rights of arrestee"
+    ],
+    "related_sections": [
+      "BNSS Section 43",
+      "BNSS Section 51",
+      "CrPC Section 50A"
+    ],
+    "related_cases": [],
+    "source_url": "https://main.sci.gov.in/judgment/judis/13374.pdf",
+    "publication_date": "1996-12-18",
+    "effective_date": "1996-12-18",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-115-1-hurt",
+    "act": "BNS",
+    "section": "Section 115(1)",
+    "title": "Voluntarily Causing Hurt",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said 'voluntarily to cause hurt'. Hurt is defined as causing bodily pain, disease or infirmity to any person.",
+    "simplified_text": "Intentionally or knowingly causing bodily pain, illness, or physical discomfort to another person constitutes voluntarily causing hurt.",
+    "keywords": [
+      "hurt",
+      "bodily pain",
+      "simple hurt",
+      "infirmity",
+      "voluntarily causing hurt",
+      "slap with injury"
+    ],
+    "related_sections": [
+      "BNS Section 115(2)",
+      "BNS Section 131",
+      "IPC Section 321",
+      "IPC Section 323"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-115-2-punishment-hurt",
+    "act": "BNS",
+    "section": "Section 115(2)",
+    "title": "Punishment for Voluntarily Causing Hurt",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "Whoever, except in the case provided for by sub-section (1) of section 122, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both, or with community service.",
+    "simplified_text": "Punishment for simple hurt: imprisonment up to 1 year, fine up to 10,000 rupees, both, or community service.",
+    "keywords": [
+      "punishment for hurt",
+      "simple hurt punishment",
+      "community service",
+      "one year imprisonment"
+    ],
+    "related_sections": [
+      "BNS Section 115(1)",
+      "IPC Section 323"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-117-grievous-hurt",
+    "act": "BNS",
+    "section": "Section 117",
+    "title": "Voluntarily Causing Grievous Hurt",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said voluntarily to cause grievous hurt. Grievous hurt includes: emasculation, permanent privation of sight or hearing, privation or destruction of any member or joint, fracture or dislocation of a bone or tooth, or any hurt which endangers life or causes severe bodily pain or inability to follow ordinary pursuits for 15 days.",
+    "simplified_text": "Severe injuries causing permanent loss of sight/hearing, broken bones/teeth, organ destruction, life-threatening danger, or severe incapacitation for at least 15 days constitute grievous hurt.",
+    "keywords": [
+      "grievous hurt",
+      "fracture",
+      "bone dislocation",
+      "loss of sight",
+      "permanent disfiguration",
+      "severe injury"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "BNS Section 118",
+      "IPC Section 320",
+      "IPC Section 325"
+    ],
+    "related_cases": [
+      "State of Karnataka v. Shivalingaiah (1988)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-118-hurt-dangerous-weapon",
+    "act": "BNS",
+    "section": "Section 118",
+    "title": "Voluntarily Causing Hurt or Grievous Hurt by Dangerous Weapons or Means",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "(1) Whoever, except in the case provided for by section 122, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. (2) Whoever commits grievous hurt by such means shall be punished with imprisonment for a term of not less than one year but which may extend to ten years, and with fine.",
+    "simplified_text": "Causing injury or grievous injury using knives, guns, fire, acid, poison, or explosives attracts severe penalties up to 3 years for hurt and up to 10 years for grievous hurt.",
+    "keywords": [
+      "dangerous weapon",
+      "knife attack",
+      "shooting",
+      "stabbing",
+      "acid attack",
+      "poison",
+      "iron rod",
+      "deadly weapon"
+    ],
+    "related_sections": [
+      "BNS Section 117",
+      "BNS Section 124",
+      "IPC Section 324",
+      "IPC Section 326"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-126-wrongful-restraint",
+    "act": "BNS",
+    "section": "Section 126",
+    "title": "Wrongful Restraint",
+    "category": "Offences Against Liberty",
+    "record_type": "statute",
+    "text": "(1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. Exception: The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section. (2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+    "simplified_text": "Unlawfully stopping or blocking someone from going where they have a right to travel. Punishable with up to 1 month imprisonment or fine up to 5,000 rupees.",
+    "keywords": [
+      "wrongful restraint",
+      "blocking road",
+      "stopping person",
+      "preventing movement"
+    ],
+    "related_sections": [
+      "BNS Section 127",
+      "IPC Section 339",
+      "IPC Section 341"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-127-wrongful-confinement",
+    "act": "BNS",
+    "section": "Section 127",
+    "title": "Wrongful Confinement",
+    "category": "Offences Against Liberty",
+    "record_type": "statute",
+    "text": "(1) Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits, is said 'wrongfully to confine' that person. (2) Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+    "simplified_text": "Confining someone within locked walls, a room, or defined boundaries without legal justification. Punishable with up to 1 year imprisonment or fine.",
+    "keywords": [
+      "wrongful confinement",
+      "locked in room",
+      "illegal detention",
+      "trapping person",
+      "hostage room"
+    ],
+    "related_sections": [
+      "BNS Section 126",
+      "IPC Section 340",
+      "IPC Section 342"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-130-criminal-force",
+    "act": "BNS",
+    "section": "Section 130",
+    "title": "Criminal Force",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "Whoever intentionally uses force to any person, without that person's consent, in order to the committing of any offence, or intending by the use of such force to cause, or knowing it to be likely that by the use of such force he will cause injury, fear or annoyance to the person to whom the force is used, is said to use 'criminal force' to that other.",
+    "simplified_text": "Using physical force without consent to cause harm, fear, or distress to another person.",
+    "keywords": [
+      "criminal force",
+      "unwanted physical contact",
+      "force without consent",
+      "pushing",
+      "shoving"
+    ],
+    "related_sections": [
+      "BNS Section 131",
+      "IPC Section 350"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-131-assault-punishment",
+    "act": "BNS",
+    "section": "Section 131",
+    "title": "Assault or Criminal Force Without Grave Provocation",
+    "category": "Assault & Bodily Harm",
+    "record_type": "statute",
+    "text": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both. An assault occurs when a person makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he is about to use criminal force.",
+    "simplified_text": "Threatening physical gestures or minor physical strikes/slaps without grave provocation. Punishable with up to 3 months imprisonment, fine up to 1,000 rupees, or both.",
+    "keywords": [
+      "assault",
+      "minor slap",
+      "threatening gesture",
+      "push",
+      "criminal force",
+      "no severe injury"
+    ],
+    "related_sections": [
+      "BNS Section 115",
+      "BNS Section 130",
+      "IPC Section 351",
+      "IPC Section 352"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-63-rape-definition",
+    "act": "BNS",
+    "section": "Section 63",
+    "title": "Rape (Definition)",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "A man is said to commit 'rape' if he penetrates his penis into the vagina, mouth, urethra or anus of a woman, or inserts any object or part of body not being the penis into the vagina, urethra or anus of a woman, or manipulates any part of the body of a woman so as to cause penetration, or applies his mouth to the vagina, anus, urethra of a woman, against her will, without her consent, or with consent obtained under fear of death or hurt, or false promise.",
+    "simplified_text": "Comprehensive legal definition of rape covering non-consensual penetration of any form, oral sex, and consent obtained by coercion, intoxication, or false pretenses.",
+    "keywords": [
+      "rape definition",
+      "consent",
+      "sexual assault",
+      "penetration without consent"
+    ],
+    "related_sections": [
+      "BNS Section 64",
+      "BNS Section 70",
+      "IPC Section 375"
+    ],
+    "related_cases": [
+      "Tukaram v. State of Maharashtra (Mathura)",
+      "Mukesh v. State for NCT of Delhi (Nirbhaya)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-64-rape-punishment",
+    "act": "BNS",
+    "section": "Section 64",
+    "title": "Punishment for Rape",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "(1) Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. (2) Rigorous imprisonment for not less than twenty years or life for police, public servants, repeat offenders, or hospital staff.",
+    "simplified_text": "Mandatory minimum 10 years rigorous imprisonment up to life sentence for rape, with heightened minimum of 20 years for custodial or authority personnel.",
+    "keywords": [
+      "rape punishment",
+      "rigorous imprisonment",
+      "minimum 10 years",
+      "custodial rape"
+    ],
+    "related_sections": [
+      "BNS Section 63",
+      "BNS Section 70",
+      "IPC Section 376"
+    ],
+    "related_cases": [
+      "Nirbhaya Case (2017) 6 SCC 1"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-69-sexual-intercourse-deceitful-promise",
+    "act": "BNS",
+    "section": "Section 69",
+    "title": "Sexual Intercourse on False Promise of Marriage or Deceitful Means",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "Whoever, by deceitful means or by making promise to marry to a woman without any intention of fulfilling the same, and has sexual intercourse with her, such sexual intercourse not amounting to the offence of rape, shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine. Explanation: 'Deceitful means' shall include the inducement of, or promise to marry under false identity, employment, promotion or false marriage.",
+    "simplified_text": "Explicit new offense in BNS punishing sexual intercourse induced through false promise of marriage, concealed marital status, fake employment, or false identity with up to 10 years imprisonment.",
+    "keywords": [
+      "false promise to marry",
+      "deceitful intercourse",
+      "fake identity sex",
+      "marriage inducement fraud"
+    ],
+    "related_sections": [
+      "BNS Section 64",
+      "IPC Section 376(2)(n)"
+    ],
+    "related_cases": [
+      "Pramod Suryabhan Pawar v. State of Maharashtra (2019)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-70-gang-rape",
+    "act": "BNS",
+    "section": "Section 70",
+    "title": "Gang Rape",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "(1) Where a woman is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of gang rape, and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to life imprisonment, which shall mean imprisonment for the remainder of that person's natural life, and with fine. (2) Gang rape of a woman under eighteen years shall be punished with life imprisonment for remainder of natural life or with death.",
+    "simplified_text": "Mandatory minimum 20 years to life imprisonment (remainder of natural life) for gang rape. Gang rape of minor punishable with death or life till natural death.",
+    "keywords": [
+      "gang rape",
+      "multiple accused rape",
+      "common intention sexual assault",
+      "death penalty for child gang rape"
+    ],
+    "related_sections": [
+      "BNS Section 64",
+      "IPC Section 376D",
+      "POCSO Act"
+    ],
+    "related_cases": [
+      "Mukesh v. State for NCT of Delhi (2017)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-74-outraging-modesty",
+    "act": "BNS",
+    "section": "Section 74",
+    "title": "Assault or Criminal Force to Woman with Intent to Outrage Modesty",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "simplified_text": "Assault or unwanted physical contact on a woman with intent to outrage her modesty carries 1 to 5 years imprisonment.",
+    "keywords": [
+      "outraging modesty",
+      "groping",
+      "molestation",
+      "unwanted touch",
+      "assault on woman"
+    ],
+    "related_sections": [
+      "BNS Section 75",
+      "BNS Section 76",
+      "IPC Section 354"
+    ],
+    "related_cases": [
+      "Rupan Deol Bajaj v. KPS Gill (1995)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-75-sexual-harassment",
+    "act": "BNS",
+    "section": "Section 75",
+    "title": "Sexual Harassment",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "(1) A man committing any of the following acts: (i) physical contact and advances involving unwelcome and explicit sexual overtures; or (ii) a demand or request for sexual favours; or (iii) showing pornography against the will of a woman; or (iv) making sexually coloured remarks, shall be guilty of the offence of sexual harassment. (2) Punishable with up to three years imprisonment or fine.",
+    "simplified_text": "Criminalizes unwelcome sexual advances, demands for sexual favors, showing pornography, or sexually colored remarks with up to 3 years imprisonment.",
+    "keywords": [
+      "sexual harassment",
+      "workplace harassment",
+      "sexual remarks",
+      "lewd advances",
+      "pornography display"
+    ],
+    "related_sections": [
+      "BNS Section 74",
+      "BNS Section 79",
+      "IPC Section 354A",
+      "POSH Act"
+    ],
+    "related_cases": [
+      "Vishaka v. State of Rajasthan (1997)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-77-voyeurism",
+    "act": "BNS",
+    "section": "Section 77",
+    "title": "Voyeurism",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "Any man who watches, or captures the image of a woman engaging in a private act in circumstances where she would usually have the expectation of not being observed either by the perpetrator or by any other person at the behest of the perpetrator or disseminates such image shall be punished on first conviction with imprisonment of either description for a term which shall not be less than one year, but which may extend to three years, and shall also be liable to fine.",
+    "simplified_text": "Secretly recording, photographing, or watching a woman in a private act (changing room, bathroom) carries 1 to 3 years imprisonment for first offense.",
+    "keywords": [
+      "voyeurism",
+      "hidden camera",
+      "changing room recording",
+      "private photos secretly taken",
+      "peeping"
+    ],
+    "related_sections": [
+      "BNS Section 78",
+      "IT Act Section 66E",
+      "IPC Section 354C"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-78-stalking",
+    "act": "BNS",
+    "section": "Section 78",
+    "title": "Stalking",
+    "category": "Sexual Offences",
+    "record_type": "statute",
+    "text": "(1) Any man who: (i) follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest by such woman; or (ii) monitors the use by a woman of the internet, email or any other form of electronic communication, commits the offence of stalking. (2) Imprisonment up to three years for first conviction, five years for repeat conviction.",
+    "simplified_text": "Following a woman repeatedly or monitoring her internet, social media, or phone communications after she indicated disinterest is stalking, punishable with up to 3 years imprisonment.",
+    "keywords": [
+      "stalking",
+      "cyber stalking",
+      "following woman",
+      "repeated messaging",
+      "social media tracking"
+    ],
+    "related_sections": [
+      "BNS Section 75",
+      "IPC Section 354D"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-85-cruelty-dowry",
+    "act": "BNS",
+    "section": "Section 85",
+    "title": "Husband or Relative of Husband of a Woman Subjecting Her to Cruelty",
+    "category": "Offences Against Marriage",
+    "record_type": "statute",
+    "text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Cruelty means: (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or cause grave injury; or (b) harassment with a view to coercing her or any person related to her to meet any unlawful demand for property or valuable security.",
+    "simplified_text": "Domestic physical/mental cruelty or dowry harassment by a husband or his relatives carries up to 3 years imprisonment and fine.",
+    "keywords": [
+      "matrimonial cruelty",
+      "dowry harassment",
+      "domestic abuse",
+      "in-laws harassment",
+      "suicide incitement"
+    ],
+    "related_sections": [
+      "BNS Section 86",
+      "IPC Section 498A",
+      "Dowry Prohibition Act"
+    ],
+    "related_cases": [
+      "Arnesh Kumar v. State of Bihar (2014)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-303-1-theft",
+    "act": "BNS",
+    "section": "Section 303(1)",
+    "title": "Theft (Definition)",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. Explanation: A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth.",
+    "simplified_text": "Taking any movable property out of someone's possession dishonestly and without consent constitutes theft.",
+    "keywords": [
+      "theft definition",
+      "dishonest intention",
+      "movable property",
+      "without consent",
+      "taking property"
+    ],
+    "related_sections": [
+      "BNS Section 303(2)",
+      "BNS Section 304",
+      "IPC Section 378"
+    ],
+    "related_cases": [
+      "KN Mehra v. State of Rajasthan (AIR 1957 SC 369)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-303-2-punishment-theft",
+    "act": "BNS",
+    "section": "Section 303(2)",
+    "title": "Punishment for Theft",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. In cases of theft where the value of stolen property is less than five thousand rupees and the person is convicted for the first time, community service may be ordered.",
+    "simplified_text": "General punishment for theft is up to 3 years imprisonment or fine. First-time offenders stealing goods valued under 5,000 rupees can be sentenced to community service.",
+    "keywords": [
+      "theft punishment",
+      "community service petty theft",
+      "stolen property under 5000",
+      "three years"
+    ],
+    "related_sections": [
+      "BNS Section 303(1)",
+      "BNS Section 304",
+      "IPC Section 379"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-308-extortion",
+    "act": "BNS",
+    "section": "Section 308",
+    "title": "Extortion",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "(1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits 'extortion'. (2) Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "simplified_text": "Threatening injury, reputational harm, or violence to force a victim into handing over money, property, or signed documents.",
+    "keywords": [
+      "extortion",
+      "blackmail",
+      "threat for money",
+      "coerced property delivery",
+      "protection money"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "IPC Section 383",
+      "IPC Section 384"
+    ],
+    "related_cases": [
+      "Romesh Sharma v. State (2001)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-316-criminal-breach-trust",
+    "act": "BNS",
+    "section": "Section 316",
+    "title": "Criminal Breach of Trust",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, commits criminal breach of trust. (2) Imprisonment up to five years, or fine, or both.",
+    "simplified_text": "Misappropriating or misusing property entrusted to one's care or custody for personal benefit carries up to 5 years imprisonment.",
+    "keywords": [
+      "criminal breach of trust",
+      "entrusted property",
+      "embezzlement",
+      "misappropriation",
+      "fiduciary breach"
+    ],
+    "related_sections": [
+      "BNS Section 318",
+      "IPC Section 405",
+      "IPC Section 406"
+    ],
+    "related_cases": [
+      "Jaswantrai Manilal Akhaney v. State of Bombay (AIR 1956 SC 575)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-324-mischief",
+    "act": "BNS",
+    "section": "Section 324",
+    "title": "Mischief",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "(1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits 'mischief'. (2) Mischief causing loss or damage to amount of one hundred rupees but less than twenty thousand rupees carries imprisonment up to one year, or fine.",
+    "simplified_text": "Intentionally destroying, damaging, or vandalizing public or private property (e.g. smashing car windshield, breaking shop windows).",
+    "keywords": [
+      "mischief",
+      "vandalism",
+      "breaking window",
+      "property destruction",
+      "slashing tires"
+    ],
+    "related_sections": [
+      "BNS Section 329",
+      "IPC Section 425",
+      "IPC Section 426",
+      "IPC Section 427"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-329-criminal-trespass",
+    "act": "BNS",
+    "section": "Section 329",
+    "title": "Criminal Trespass and House-Trespass",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "(1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit 'criminal trespass'. (2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or place of worship, or place for the custody of property, is said to commit 'house-trespass'.",
+    "simplified_text": "Unlawfully entering someone's property to commit a crime, threaten, or harass them. Entering a home or place of worship is house-trespass.",
+    "keywords": [
+      "criminal trespass",
+      "house trespass",
+      "illegal entry",
+      "trespassing into home",
+      "encroachment with threat"
+    ],
+    "related_sections": [
+      "BNS Section 331",
+      "IPC Section 441",
+      "IPC Section 442",
+      "IPC Section 447",
+      "IPC Section 448"
+    ],
+    "related_cases": [
+      "Mathri v. State of Punjab (AIR 1964 SC 986)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-331-house-breaking",
+    "act": "BNS",
+    "section": "Section 331",
+    "title": "House-Breaking and House-Breaking by Night",
+    "category": "Property Offences",
+    "record_type": "statute",
+    "text": "A person is said to commit 'house-breaking' who commits house-trespass if he effects his entrance into the house or any part of it, or effects his exit, by entering through an opening made or widened for the purpose, climbing over walls, breaking open locks, or unfastening any latch. House-breaking after sunset and before sunrise is house-breaking by night, punishable with imprisonment up to three years (or up to fourteen years if intended to commit theft or robbery).",
+    "simplified_text": "Breaking locks, climbing walls, or smashing doors to enter a dwelling. Breaking in at night to commit theft carries severe penalties up to 14 years.",
+    "keywords": [
+      "house breaking",
+      "burglary",
+      "breaking locks",
+      "night burglary",
+      "house breaking by night"
+    ],
+    "related_sections": [
+      "BNS Section 329",
+      "IPC Section 445",
+      "IPC Section 457"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-111-organised-crime",
+    "act": "BNS",
+    "section": "Section 111",
+    "title": "Organised Crime",
+    "category": "Organised Crime & Syndicates",
+    "record_type": "statute",
+    "text": "(1) Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cybercrimes having severe consequences, trafficking in persons, drugs or illicit arms, carried on by an individual singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, or other unlawful means to obtain direct or indirect material benefit, constitutes organised crime. (2) Punishable with death or life imprisonment if death results, and minimum five years to life imprisonment in other cases, along with fine not less than five lakh rupees.",
+    "simplified_text": "Comprehensive legal framework covering mafia syndicates, gang extortion, contract killing, arms and drug trafficking, and cyber cartels. Carries life imprisonment or death penalty if victim dies.",
+    "keywords": [
+      "organised crime",
+      "syndicate",
+      "mafia",
+      "gang extortion",
+      "contract killing",
+      "drug trafficking syndicate"
+    ],
+    "related_sections": [
+      "BNS Section 112",
+      "BNS Section 113",
+      "MCOCA equivalents"
+    ],
+    "related_cases": [
+      "State of Maharashtra v. Lalit Somdatta Nagpal (2007)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bns-sec-112-petty-organised-crime",
+    "act": "BNS",
+    "section": "Section 112",
+    "title": "Petty Organised Crime",
+    "category": "Organised Crime & Syndicates",
+    "record_type": "statute",
+    "text": "(1) Whoever, being a member of a group or gang, singly or jointly, commits any crime of theft, snatching, cheating, unauthorized selling of tickets, betting or gambling, or selling of public examination question papers, commits petty organised crime. (2) Whoever commits petty organised crime shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.",
+    "simplified_text": "Targets organized theft gangs, exam paper leak syndicates, black market ticket cartels, and snatching gangs with mandatory 1 to 7 years imprisonment.",
+    "keywords": [
+      "petty organised crime",
+      "paper leak gang",
+      "gambling syndicate",
+      "ticket scalping mafia",
+      "pickpocket gang"
+    ],
+    "related_sections": [
+      "BNS Section 111",
+      "BNS Section 304"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-43-handcuffing",
+    "act": "BNSS",
+    "section": "Section 43",
+    "title": "Use of Handcuffs",
+    "category": "Criminal Procedure & Arrest",
+    "record_type": "statute",
+    "text": "(3) The police officer may, keeping in view the nature and gravity of the offence, use handcuff while effecting the arrest of a person or producing such person before the court who is a habitual or repeat offender, or who has escaped from custody, or who has committed offence of organized crime, terrorist act, drug trafficking, illegal possession of firearms, murder, rape, acid attack, or offence against the State.",
+    "simplified_text": "Codifies strict statutory parameters for when police can use handcuffs: restricted to repeat offenders, escapees, terrorists, gang members, or perpetrators of heinous crimes like murder, rape, and acid attacks.",
+    "keywords": [
+      "handcuffing rules",
+      "use of handcuffs",
+      "habitual offender",
+      "heinous crime arrest"
+    ],
+    "related_sections": [
+      "CrPC Section 46",
+      "BNSS Section 35"
+    ],
+    "related_cases": [
+      "Prem Shankar Shukla v. Delhi Administration (1980) 3 SCC 526",
+      "Citizen for Democracy v. State of Assam (1995)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-105-audio-video-recording",
+    "act": "BNSS",
+    "section": "Section 105",
+    "title": "Recording of Search and Seizure Through Audio-Video Electronic Means",
+    "category": "Criminal Procedure & Investigation",
+    "record_type": "statute",
+    "text": "The process of conducting search of a place or taking possession of any property, article or thing under this Chapter or under section 185, including preparation of the list of things seized and the signature of witnesses, shall be recorded through any audio-video electronic means preferably mobile phone and the police officer shall forward such recording to the District Magistrate, Sub-divisional Magistrate or Judicial Magistrate without delay.",
+    "simplified_text": "Mandatory requirement in BNSS: all police search and seizures must be recorded on video (including mobile phone) and forwarded to the Magistrate to prevent planted evidence.",
+    "keywords": [
+      "mandatory videography",
+      "search and seizure recording",
+      "audio-video electronic means",
+      "panchnama videography"
+    ],
+    "related_sections": [
+      "BNSS Section 185",
+      "CrPC Section 100",
+      "BSA Section 63"
+    ],
+    "related_cases": [
+      "Shafhi Mohammad v. State of H.P. (2018)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-173-fir-zero-fir",
+    "act": "BNSS",
+    "section": "Section 173",
+    "title": "Information in Cognizable Cases (FIR, Zero FIR & Preliminary Enquiry)",
+    "category": "Criminal Procedure & Investigation",
+    "record_type": "statute",
+    "text": "(1) Every information relating to the commission of a cognizable offence, irrespective of the area where the offence is committed, may be given orally or by electronic communication to an officer in charge of a police station (Zero FIR). If given electronically, it shall be taken on record upon being signed within three days. (3) On receipt of information of an offence punishable with imprisonment for three years or more but less than seven years, the officer may conduct a preliminary enquiry within fourteen days to ascertain whether a prima facie case exists.",
+    "simplified_text": "Codifies Zero FIR (complaint at any police station regardless of jurisdiction), e-FIR (with signature within 3 days), and a 14-day preliminary enquiry window for offences punishable between 3 to 7 years.",
+    "keywords": [
+      "FIR",
+      "Zero FIR",
+      "e-FIR",
+      "preliminary enquiry 14 days",
+      "cognizable offence reporting"
+    ],
+    "related_sections": [
+      "CrPC Section 154"
+    ],
+    "related_cases": [
+      "Lalita Kumari v. Govt. of UP (2014) 2 SCC 1"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-187-police-custody",
+    "act": "BNSS",
+    "section": "Section 187",
+    "title": "Procedure When Investigation Cannot Be Completed in Twenty-Four Hours (Remand)",
+    "category": "Criminal Procedure & Investigation",
+    "record_type": "statute",
+    "text": "(2) The Magistrate may authorize the detention of the accused person, otherwise than in police custody, beyond the period of fifteen days... Provided that the Magistrate may authorize detention in custody of the police for a period of fifteen days in the whole, or in parts, at any time during the initial forty or sixty days out of detention period of sixty or ninety days.",
+    "simplified_text": "Revises police remand rules: 15 days of police custody may now be sought in whole or broken into parts across the first 40 or 60 days of detention, rather than strictly in the first 15 days.",
+    "keywords": [
+      "police custody",
+      "remand in parts",
+      "40 days window",
+      "default bail 60 90 days",
+      "judicial custody"
+    ],
+    "related_sections": [
+      "CrPC Section 167"
+    ],
+    "related_cases": [
+      "CBI v. Anupam J. Kulkarni (1992)",
+      "V. Senthil Balaji v. State (2023)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bnss-sec-479-undertrial-bail",
+    "act": "BNSS",
+    "section": "Section 479",
+    "title": "Maximum Period for Which an Undertrial Prisoner Can Be Detained",
+    "category": "Criminal Procedure & Bail",
+    "record_type": "statute",
+    "text": "(1) Where a person has, during the period of investigation, inquiry or trial under this Sanhita of an offence under any law (not being an offence for which the punishment of death or life imprisonment has been specified) undergone detention for a period extending up to one-half of the maximum period of imprisonment, he shall be released by the Court on bail: Provided that where such person is a first-time offender (having never been convicted of any offence previously), he shall be released on bail by the Court if he has undergone detention for up to one-third of the maximum period.",
+    "simplified_text": "Major undertrial reform: First-time offenders who have served one-third of maximum sentence must be released on personal bond/bail. Repeat undertrials eligible after one-half.",
+    "keywords": [
+      "undertrial bail",
+      "first time offender one third",
+      "one half detention",
+      "personal bond",
+      "decongestion of jails"
+    ],
+    "related_sections": [
+      "CrPC Section 436A",
+      "BNSS Section 480"
+    ],
+    "related_cases": [
+      "Bhim Singh v. Union of India (2015) 13 SCC 605",
+      "Satender Kumar Antil v. CBI (2022)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-23-confession-police-inadmissible",
+    "act": "BSA",
+    "section": "Section 23",
+    "title": "Confession to Police Officer Not to Be Proved",
+    "category": "Law of Evidence",
+    "record_type": "statute",
+    "text": "(1) No confession made to a police officer shall be proved as against a person accused of any offence. (2) No confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person. Provided that when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.",
+    "simplified_text": "Confessions to police officers or made during police custody remain completely inadmissible in court, except for the specific discovery of physical evidence/weapons recovered pursuant to the statement.",
+    "keywords": [
+      "police confession inadmissible",
+      "custodial statement",
+      "discovery of weapon",
+      "Section 27 IEA equivalent"
+    ],
+    "related_sections": [
+      "IEA Section 25",
+      "IEA Section 26",
+      "IEA Section 27"
+    ],
+    "related_cases": [
+      "Pulukuri Kottaya v. King-Emperor (AIR 1947 PC 67)",
+      "Mohd. Inayatullah v. State of Maharashtra (1976)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-39-expert-opinion",
+    "act": "BSA",
+    "section": "Section 39",
+    "title": "Opinions of Experts",
+    "category": "Law of Evidence",
+    "record_type": "statute",
+    "text": "When the Court has to form an opinion upon a point of foreign law or of science, or art, or any other field, or as to identity of handwriting or finger impressions, or digital evidence, the opinions upon that point of persons specially skilled in such field, science or art, or in questions as to identity of handwriting or finger impressions, are relevant facts. Such persons are called experts.",
+    "simplified_text": "Court may admit expert scientific opinions on ballistics, forensic pathology, DNA, fingerprints, handwriting, and digital/cyber forensics.",
+    "keywords": [
+      "expert witness",
+      "forensic report",
+      "ballistics evidence",
+      "DNA profiling",
+      "fingerprint expert",
+      "digital evidence expert"
+    ],
+    "related_sections": [
+      "IEA Section 45",
+      "BNSS Section 53"
+    ],
+    "related_cases": [
+      "Ramesh Chandra Agrawal v. Regency Hospital Ltd. (2009) 9 SCC 709"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-61-electronic-records",
+    "act": "BSA",
+    "section": "Section 61",
+    "title": "Admissibility of Electronic Records",
+    "category": "Law of Evidence",
+    "record_type": "statute",
+    "text": "Nothing in this Adhimiyam shall apply to deny the admissibility of an electronic or digital record in evidence on the ground that it is an electronic or digital record, and such record shall have the same legal effect, validity and enforceability as other document.",
+    "simplified_text": "Explicit statutory parity: electronic and digital evidence has the exact same legal effect, validity, and enforceability as physical paper documents.",
+    "keywords": [
+      "electronic record",
+      "digital evidence parity",
+      "CCTV admissibility",
+      "email evidence",
+      "WhatsApp chat evidence"
+    ],
+    "related_sections": [
+      "BSA Section 63",
+      "IEA Section 65A",
+      "IT Act Section 4"
+    ],
+    "related_cases": [
+      "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "bsa-sec-63-electronic-certificate",
+    "act": "BSA",
+    "section": "Section 63",
+    "title": "Admissibility of Electronic Records and Mandatory Certificate",
+    "category": "Law of Evidence",
+    "record_type": "statute",
+    "text": "(1) Any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media or cloud server or electronic storage shall be deemed to be also a document. (4) In any proceedings where it is desired to give a statement in evidence by virtue of this section, a certificate doing any of the following things: identifying the electronic record, describing the manner in which it was produced, giving particulars of device, signed by a person in official charge or expert, shall be submitted in the Schedule format.",
+    "simplified_text": "Replaces Section 65B of Indian Evidence Act. Mandates an electronic certificate verifying device hash, origin, and integrity before admitting digital evidence, CCTV footage, or call records.",
+    "keywords": [
+      "Section 63 certificate",
+      "65B replacement",
+      "hash value",
+      "digital forensics integrity",
+      "CCTV certificate"
+    ],
+    "related_sections": [
+      "BSA Section 61",
+      "IEA Section 65B"
+    ],
+    "related_cases": [
+      "Arjun Panditrao Khotkar (2020) 7 SCC 1",
+      "Anvar P.V. v. P.K. Basheer (2014)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/20064",
+    "publication_date": "2023-12-25",
+    "effective_date": "2024-07-01",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-8-prohibition",
+    "act": "NDPS_ACT",
+    "section": "Section 8",
+    "title": "Prohibition of Certain Operations",
+    "category": "Narcotics & Controlled Substances",
+    "record_type": "statute",
+    "text": "No person shall cultivate any coca plant or gather any portion of coca plant; or cultivate the opium poppy or any cannabis plant; or produce, manufacture, possess, sell, purchase, transport, warehouse, use, consume, import inter-State, export inter-State, import into India, export from India or tranship any narcotic drug or psychotropic substance, except for medical or scientific purposes in accordance with rules.",
+    "simplified_text": "Strict statutory ban on growing, manufacturing, buying, selling, transporting, storing, or consuming narcotic drugs or psychotropic substances without licensing.",
+    "keywords": [
+      "NDPS prohibition",
+      "drug possession",
+      "narcotics trafficking",
+      "cannabis cultivation",
+      "banned substances"
+    ],
+    "related_sections": [
+      "NDPS Section 20",
+      "NDPS Section 21",
+      "NDPS Section 37"
+    ],
+    "related_cases": [
+      "Noor Aga v. State of Punjab (2008) 16 SCC 417"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-20-cannabis-punishment",
+    "act": "NDPS_ACT",
+    "section": "Section 20",
+    "title": "Punishment for Contravention in Relation to Cannabis Plant and Cannabis",
+    "category": "Narcotics & Controlled Substances",
+    "record_type": "statute",
+    "text": "Whoever, in contravention of any provision of this Act: (A) cultivates any cannabis plant, shall be punishable with rigorous imprisonment for a term which may extend to ten years and fine; (B) produces, manufactures, possesses, sells, purchases, transports, imports or exports cannabis: (i) where small quantity, rigorous imprisonment up to one year, or fine up to 10,000 rupees; (ii) where commercial quantity, rigorous imprisonment not less than ten years but which may extend to twenty years, and fine not less than one lakh rupees.",
+    "simplified_text": "Graduated punishment for weed/charas/ganja: up to 1 year for small quantity (e.g. under 1 kg ganja / under 100g charas), and 10 to 20 years rigorous imprisonment for commercial quantities (e.g. 20 kg ganja / 1 kg charas).",
+    "keywords": [
+      "cannabis punishment",
+      "ganja",
+      "charas",
+      "small quantity vs commercial quantity",
+      "drug trafficking"
+    ],
+    "related_sections": [
+      "NDPS Section 8",
+      "NDPS Section 27",
+      "NDPS Section 37"
+    ],
+    "related_cases": [
+      "Basheer v. State of Kerala (2004) 3 SCC 616"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-21-manufactured-drugs",
+    "act": "NDPS_ACT",
+    "section": "Section 21",
+    "title": "Punishment for Contravention in Relation to Manufactured Drugs and Preparations",
+    "category": "Narcotics & Controlled Substances",
+    "record_type": "statute",
+    "text": "Whoever possesses, sells, transports, or manufactures any manufactured drug (heroin, cocaine, morphine, fentanyl): (a) small quantity: rigorous imprisonment up to one year, or fine up to 10,000 rupees; (b) quantity lesser than commercial: imprisonment up to ten years; (c) commercial quantity: rigorous imprisonment not less than ten years extending to twenty years, and fine of one to two lakh rupees.",
+    "simplified_text": "Penalizes possession or dealing in synthetic or refined hard drugs like heroin and cocaine. Commercial quantities attract mandatory minimum 10 years imprisonment.",
+    "keywords": [
+      "heroin",
+      "cocaine",
+      "manufactured drugs",
+      "synthetic narcotics",
+      "commercial quantity drug raid"
+    ],
+    "related_sections": [
+      "NDPS Section 8",
+      "NDPS Section 37"
+    ],
+    "related_cases": [
+      "State of Punjab v. Baldev Singh (1999) 6 SCC 172"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ndps-sec-37-bail-restrictions",
+    "act": "NDPS_ACT",
+    "section": "Section 37",
+    "title": "Offences to Be Cognizable and Non-Bailable",
+    "category": "Narcotics & Controlled Substances",
+    "record_type": "statute",
+    "text": "(1) Every offence punishable under this Act shall be cognizable. (2) No person accused of an offence punishable for offences involving commercial quantity shall be released on bail unless: (i) the Public Prosecutor has been given an opportunity to oppose; and (ii) the Court is satisfied that there are reasonable grounds for believing that he is not guilty of such offence and that he is not likely to commit any offence while on bail.",
+    "simplified_text": "Extremely stringent twin bail conditions for commercial quantity drug offences: court must have reasonable grounds to believe accused is innocent and will not re-offend.",
+    "keywords": [
+      "NDPS bail",
+      "twin conditions Section 37",
+      "commercial quantity bail bar",
+      "non-bailable drug case"
+    ],
+    "related_sections": [
+      "NDPS Section 20",
+      "NDPS Section 21",
+      "CrPC Section 439"
+    ],
+    "related_cases": [
+      "State of Kerala v. Rajesh (2020) 12 SCC 122",
+      "Rhea Chakraborty v. Union of India (2020)"
+    ],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1791",
+    "publication_date": "1985-09-16",
+    "effective_date": "1985-11-14",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-sec-66c-identity-theft",
+    "act": "IT_ACT",
+    "section": "Section 66C",
+    "title": "Punishment for Identity Theft",
+    "category": "Cyber & Digital Offences",
+    "record_type": "statute",
+    "text": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend with to one lakh rupees.",
+    "simplified_text": "Stealing or misusing someone's digital passwords, OTPs, biometric signatures, or Aadhaar credentials carries up to 3 years imprisonment and 1 lakh fine.",
+    "keywords": [
+      "identity theft",
+      "password stealing",
+      "OTP fraud",
+      "stolen credentials",
+      "account hijacking"
+    ],
+    "related_sections": [
+      "IT Act Section 66D",
+      "BNS Section 318(4)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2000-10-17",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-sec-66d-cheating-impersonation",
+    "act": "IT_ACT",
+    "section": "Section 66D",
+    "title": "Punishment for Cheating by Personation by Using Computer Resource",
+    "category": "Cyber & Digital Offences",
+    "record_type": "statute",
+    "text": "Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+    "simplified_text": "Phishing scams, fake banking caller frauds, and impersonating officials or bank representatives via internet or phone to defraud citizens.",
+    "keywords": [
+      "cyber phishing",
+      "cheating by personation",
+      "fake bank caller",
+      "online scammer",
+      "computer fraud"
+    ],
+    "related_sections": [
+      "IT Act Section 66C",
+      "BNS Section 318(4)",
+      "IPC Section 420"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2000-10-17",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "it-sec-66e-privacy-violation",
+    "act": "IT_ACT",
+    "section": "Section 66E",
+    "title": "Punishment for Violation of Privacy",
+    "category": "Cyber & Digital Offences",
+    "record_type": "statute",
+    "text": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person, shall be punished with imprisonment which may extend to three years or with fine not exceeding two lakh rupees, or with both.",
+    "simplified_text": "Capturing, sharing, or transmitting intimate photos or videos without consent violates privacy and attracts up to 3 years imprisonment.",
+    "keywords": [
+      "privacy violation",
+      "intimate photo leak",
+      "revenge porn",
+      "hidden camera video",
+      "voyeurism digital"
+    ],
+    "related_sections": [
+      "BNS Section 77",
+      "IT Act Section 67"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+    "publication_date": "2000-06-09",
+    "effective_date": "2000-10-17",
+    "historical_law_status": "CURRENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-phool-kumar-deadly-weapon",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Phool Kumar v. Delhi Administration (1975) 1 SCC 797",
+    "category": "Property & Bodily Offences",
+    "record_type": "judgment",
+    "text": "The Supreme Court clarified the meaning of 'uses any deadly weapon' in armed robbery. The court held that if a person carries a deadly weapon (like a firearm or knife) openly in his hand to overawe, terrify or intimidate the victim while taking property, it amounts to 'using' the weapon even if no shot was fired or stab inflicted.",
+    "simplified_text": "Displaying or brandishing a knife or gun to intimidate the victim during a robbery legally counts as 'using' a deadly weapon, triggering heightened penalties.",
+    "keywords": [
+      "Phool Kumar",
+      "using deadly weapon",
+      "brandishing gun",
+      "armed robbery knife",
+      "overawe victim"
+    ],
+    "related_sections": [
+      "BNS Section 309",
+      "IPC Section 397"
+    ],
+    "related_cases": [],
+    "source_url": "https://main.sci.gov.in/judgment/judis/5234.pdf",
+    "publication_date": "1975-03-04",
+    "effective_date": "1975-03-04",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-virsa-singh-murder-intent",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+    "category": "Homicide",
+    "record_type": "judgment",
+    "text": "Landmark four-point test on murder under Section 300 Clause 3 (now BNS Section 101): The prosecution must prove: (1) bodily injury is present; (2) the nature of the injury; (3) it was intended to inflict that particular bodily injury and not accidental; (4) that injury is sufficient in the ordinary course of nature to cause death. Once these are proved, the offense is murder regardless of subjective intent to kill.",
+    "simplified_text": "The foundational Indian test for murder: if an accused intentionally inflicts an injury that doctors confirm is sufficient in ordinary course of nature to cause death, murder is established.",
+    "keywords": [
+      "Virsa Singh test",
+      "clause 3 murder",
+      "sufficient in ordinary course of nature",
+      "fatal bodily injury"
+    ],
+    "related_sections": [
+      "BNS Section 101",
+      "IPC Section 300"
+    ],
+    "related_cases": [
+      "State of AP v. Rayavarapu Punnayya (1976)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/1142.pdf",
+    "publication_date": "1958-03-11",
+    "effective_date": "1958-03-11",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-puttaswamy-privacy",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1",
+    "category": "Constitutional & Digital Rights",
+    "record_type": "judgment",
+    "text": "A nine-judge constitutional bench unanimously affirmed that the right to privacy is a fundamental right protected under Article 21 and Part III of the Constitution. Privacy encompasses spatial privacy, decisional autonomy, and informational privacy. Any state intrusion into personal data must pass the threefold test of legality, legitimate state aim, and proportionality.",
+    "simplified_text": "Nine-judge bench declared Right to Privacy a fundamental right under Article 21, establishing strict constitutional boundaries for state data collection and surveillance.",
+    "keywords": [
+      "Puttaswamy",
+      "right to privacy",
+      "Article 21",
+      "informational privacy",
+      "DPDP Act foundation"
+    ],
+    "related_sections": [
+      "IT Act Section 66E",
+      "BSA Section 61"
+    ],
+    "related_cases": [
+      "MP Sharma v. Satish Chandra (1954)",
+      "Kharak Singh v. State of UP (1963)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/44754.pdf",
+    "publication_date": "2017-08-24",
+    "effective_date": "2017-08-24",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-satender-antil-bail",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Satender Kumar Antil v. CBI (2022) 10 SCC 51",
+    "category": "Criminal Procedure & Bail",
+    "record_type": "judgment",
+    "text": "The Supreme Court formulated comprehensive guidelines categorizing offences into four categories (A, B, C, D) for the grant of bail without taking accused into custody upon filing of chargesheet if accused complied with Section 41A CrPC notice and cooperated with investigation. Urged the Government to enact a standalone 'Bail Act'.",
+    "simplified_text": "Exhaustive bail guidelines categorizing offences to prevent needless jail time when an accused has cooperated with notices of appearance during probe.",
+    "keywords": [
+      "Satender Antil",
+      "bail guidelines",
+      "preventing unnecessary arrest",
+      "category A offences",
+      "bail without custody"
+    ],
+    "related_sections": [
+      "BNSS Section 35",
+      "BNSS Section 479",
+      "CrPC Section 437"
+    ],
+    "related_cases": [
+      "Arnesh Kumar v. State of Bihar (2014)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/49467.pdf",
+    "publication_date": "2022-07-11",
+    "effective_date": "2022-07-11",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-selvi-narco-analysis",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Selvi v. State of Karnataka (2010) 7 SCC 263",
+    "category": "Forensic & Constitutional Law",
+    "record_type": "judgment",
+    "text": "The Supreme Court held that involuntary administration of narco-analysis, polygraph tests, or brain electrical activation profile (BEAP) violates the right against self-incrimination under Article 20(3) and the right to privacy and substantive due process under Article 21. Any information or material discovered with the help of voluntary tests may be admitted under Section 27 Evidence Act.",
+    "simplified_text": "Narco-analysis, lie detector, and brain mapping cannot be conducted on any accused without their informed consent. Involuntary tests are unconstitutional.",
+    "keywords": [
+      "Selvi case",
+      "narco-analysis unconstitutional",
+      "lie detector test",
+      "polygraph consent",
+      "Article 20(3)"
+    ],
+    "related_sections": [
+      "BSA Section 23",
+      "BSA Section 39",
+      "Article 20(3)"
+    ],
+    "related_cases": [
+      "State of Bombay v. Kathi Kalu Oghad (1961)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/36262.pdf",
+    "publication_date": "2010-05-05",
+    "effective_date": "2010-05-05",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-kathi-kalu-oghad-specimens",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "State of Bombay v. Kathi Kalu Oghad (AIR 1961 SC 1808)",
+    "category": "Forensic & Constitutional Law",
+    "record_type": "judgment",
+    "text": "An eleven-judge constitutional bench held that compelling an accused to give specimen handwriting, signature, finger impressions, or to exhibit parts of his body for identification does not violate the protection against self-incrimination under Article 20(3). 'To be a witness' means imparting personal knowledge of relevant facts, not furnishing physical material evidence.",
+    "simplified_text": "Eleven-judge bench confirmed police can lawfully obtain fingerprints, handwriting specimens, and physical measurements from an accused without violating Article 20(3).",
+    "keywords": [
+      "Kathi Kalu Oghad",
+      "fingerprint collection",
+      "specimen handwriting",
+      "Article 20(3)",
+      "identification of prisoners"
+    ],
+    "related_sections": [
+      "BNSS Section 51",
+      "BSA Section 39"
+    ],
+    "related_cases": [
+      "Selvi v. State of Karnataka (2010)"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/1321.pdf",
+    "publication_date": "1961-08-04",
+    "effective_date": "1961-08-04",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "case-tofan-singh-ndps-statements",
+    "act": "CASE_LAW",
+    "section": "Precedent",
+    "title": "Tofan Singh v. State of Tamil Nadu (2021) 4 SCC 1",
+    "category": "Narcotics & Procedure",
+    "record_type": "judgment",
+    "text": "The Supreme Court held by 2:1 majority that officers invested with powers under Section 53 of the NDPS Act are 'police officers' within the meaning of Section 25 of the Evidence Act. Consequently, any confessional statement made to them under Section 67 NDPS Act is barred from being used as confessional evidence against the accused.",
+    "simplified_text": "Confessions recorded by NCB or narcotics officers under Section 67 NDPS Act are inadmissible as confessions in court, upholding police confession protections.",
+    "keywords": [
+      "Tofan Singh",
+      "NDPS confession inadmissible",
+      "Section 67 statement",
+      "Section 25 Evidence Act bar"
+    ],
+    "related_sections": [
+      "NDPS Section 67",
+      "BSA Section 23",
+      "IEA Section 25"
+    ],
+    "related_cases": [
+      "Kanhaiyalal v. Union of India (2008) overruled"
+    ],
+    "source_url": "https://main.sci.gov.in/judgment/judis/47942.pdf",
+    "publication_date": "2020-10-29",
+    "effective_date": "2020-10-29",
+    "historical_law_status": "PRECEDENT",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-302",
+    "act": "IPC",
+    "section": "Section 302",
+    "title": "Punishment for murder",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 302: Punishment for murder. Punishment for murder under historical IPC: death or imprisonment for life, and fine. Mapped to BNS Section 103. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 103.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 103 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 302",
+      "murder punishment",
+      "death penalty",
+      "life sentence",
+      "Section 103"
+    ],
+    "related_sections": [
+      "BNS Section 103"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-307",
+    "act": "IPC",
+    "section": "Section 307",
+    "title": "Attempt to murder",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 307: Attempt to murder. Attempt to murder under historical IPC: imprisonment up to 10 years or life if hurt caused. Mapped to BNS Section 109. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 109.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 109 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 307",
+      "attempt to murder",
+      "shooting victim",
+      "stabbing survived",
+      "Section 109"
+    ],
+    "related_sections": [
+      "BNS Section 109"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-323",
+    "act": "IPC",
+    "section": "Section 323",
+    "title": "Punishment for voluntarily causing hurt",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 323: Punishment for voluntarily causing hurt. Punishment for simple hurt under IPC: up to 1 year imprisonment or fine up to 1,000 rupees. Mapped to BNS Section 115(2). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 115(2).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 115(2) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 323",
+      "voluntarily causing hurt",
+      "slap",
+      "fist punch",
+      "Section 115(2)"
+    ],
+    "related_sections": [
+      "BNS Section 115(2)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-324",
+    "act": "IPC",
+    "section": "Section 324",
+    "title": "Voluntarily causing hurt by dangerous weapons or means",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 324: Voluntarily causing hurt by dangerous weapons or means. Hurt caused by sharp or cutting instruments, fire, or poison under IPC. Mapped to BNS Section 118(1). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 118(1).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 118(1) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 324",
+      "weapon hurt",
+      "knife injury",
+      "sharp object",
+      "Section 118(1)"
+    ],
+    "related_sections": [
+      "BNS Section 118(1)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-326",
+    "act": "IPC",
+    "section": "Section 326",
+    "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 326: Voluntarily causing grievous hurt by dangerous weapons or means. Grievous hurt using deadly weapons or instruments under IPC: imprisonment up to 10 years or life. Mapped to BNS Section 118(2). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 118(2).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 118(2) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 326",
+      "grievous hurt weapon",
+      "fracture with weapon",
+      "severe stabbing",
+      "Section 118(2)"
+    ],
+    "related_sections": [
+      "BNS Section 118(2)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-354",
+    "act": "IPC",
+    "section": "Section 354",
+    "title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 354: Assault or criminal force to woman with intent to outrage her modesty. Assault or criminal force on woman to outrage modesty under IPC. Mapped to BNS Section 74. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 74.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 74 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 354",
+      "outraging modesty",
+      "molestation",
+      "groping",
+      "Section 74"
+    ],
+    "related_sections": [
+      "BNS Section 74"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-376",
+    "act": "IPC",
+    "section": "Section 376",
+    "title": "Punishment for rape",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 376: Punishment for rape. Rape punishment under IPC: minimum 10 years to life imprisonment. Mapped to BNS Section 64. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 64.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 64 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 376",
+      "rape punishment IPC",
+      "sexual assault",
+      "Section 64"
+    ],
+    "related_sections": [
+      "BNS Section 64"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-379",
+    "act": "IPC",
+    "section": "Section 379",
+    "title": "Punishment for theft",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 379: Punishment for theft. Punishment for theft under IPC: imprisonment up to 3 years or fine. Mapped to BNS Section 303(2). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 303(2).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 303(2) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 379",
+      "theft",
+      "stolen bike",
+      "stolen wallet",
+      "shoplifting",
+      "Section 303(2)"
+    ],
+    "related_sections": [
+      "BNS Section 303(2)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-392",
+    "act": "IPC",
+    "section": "Section 392",
+    "title": "Punishment for robbery",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 392: Punishment for robbery. Punishment for robbery under IPC: rigorous imprisonment up to 10 years. Mapped to BNS Section 309. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 309.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 309 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 392",
+      "robbery",
+      "armed robbery",
+      "cash looting",
+      "Section 309"
+    ],
+    "related_sections": [
+      "BNS Section 309"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-420",
+    "act": "IPC",
+    "section": "Section 420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 420: Cheating and dishonestly inducing delivery of property. Cheating with delivery of property under historical IPC: up to 7 years imprisonment. Mapped to BNS Section 318(4). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 318(4).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 318(4) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 420",
+      "cheating",
+      "fraud",
+      "scam",
+      "financial deception",
+      "Section 318(4)"
+    ],
+    "related_sections": [
+      "BNS Section 318(4)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-498a",
+    "act": "IPC",
+    "section": "Section 498A",
+    "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 498A: Husband or relative of husband of a woman subjecting her to cruelty. Cruelty and dowry harassment by husband or in-laws under IPC: up to 3 years imprisonment. Mapped to BNS Section 85. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 85.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 85 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 498A",
+      "dowry cruelty",
+      "domestic violence",
+      "harassment for dowry",
+      "Section 85"
+    ],
+    "related_sections": [
+      "BNS Section 85"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-506",
+    "act": "IPC",
+    "section": "Section 506",
+    "title": "Punishment for criminal intimidation",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 506: Punishment for criminal intimidation. Criminal intimidation under IPC: up to 2 years or 7 years if threat to cause death. Mapped to BNS Section 351. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 351.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 351 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 506",
+      "criminal intimidation",
+      "death threats",
+      "blackmail",
+      "Section 351"
+    ],
+    "related_sections": [
+      "BNS Section 351"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-120b",
+    "act": "IPC",
+    "section": "Section 120B",
+    "title": "Punishment of criminal conspiracy",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 120B: Punishment of criminal conspiracy. Criminal conspiracy under IPC: punishment equivalent to abetment of the substantive offence. Mapped to BNS Section 61. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 61.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 61 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 120B",
+      "criminal conspiracy",
+      "conspiracy agreement",
+      "joint criminal plan",
+      "Section 61"
+    ],
+    "related_sections": [
+      "BNS Section 61"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-34",
+    "act": "IPC",
+    "section": "Section 34",
+    "title": "Acts done by several persons in furtherance of common intention",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 34: Acts done by several persons in furtherance of common intention. Common intention principle under IPC: each person liable for the act as if done by him alone. Mapped to BNS Section 3(5). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 3(5).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 3(5) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 34",
+      "common intention",
+      "joint liability",
+      "pre-arranged plan",
+      "Section 3(5)"
+    ],
+    "related_sections": [
+      "BNS Section 3(5)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-149",
+    "act": "IPC",
+    "section": "Section 149",
+    "title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 149: Every member of unlawful assembly guilty of offence committed in prosecution of common object. Constructive liability of members of unlawful assembly under IPC. Mapped to BNS Section 190. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 190.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 190 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 149",
+      "unlawful assembly",
+      "common object",
+      "mob liability",
+      "Section 190"
+    ],
+    "related_sections": [
+      "BNS Section 190"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-279",
+    "act": "IPC",
+    "section": "Section 279",
+    "title": "Rash driving or riding on a public way",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 279: Rash driving or riding on a public way. Rash or negligent driving endangering human life under IPC: up to 6 months imprisonment or fine. Mapped to BNS Section 281. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 281.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 281 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 279",
+      "rash driving",
+      "dangerous driving",
+      "road accident",
+      "Section 281"
+    ],
+    "related_sections": [
+      "BNS Section 281"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-304a",
+    "act": "IPC",
+    "section": "Section 304A",
+    "title": "Causing death by negligence",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 304A: Causing death by negligence. Causing death by rash or negligent act not amounting to culpable homicide under IPC: up to 2 years imprisonment. Mapped to BNS Section 106(1). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 106(1).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 106(1) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 304A",
+      "death by negligence",
+      "negligent driving death",
+      "medical negligence",
+      "Section 106(1)"
+    ],
+    "related_sections": [
+      "BNS Section 106(1)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-384",
+    "act": "IPC",
+    "section": "Section 384",
+    "title": "Punishment for extortion",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 384: Punishment for extortion. Punishment for extortion under IPC: imprisonment up to 3 years or fine. Mapped to BNS Section 308(2). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 308(2).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 308(2) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 384",
+      "extortion punishment",
+      "blackmail payment",
+      "Section 308(2)"
+    ],
+    "related_sections": [
+      "BNS Section 308(2)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-406",
+    "act": "IPC",
+    "section": "Section 406",
+    "title": "Punishment for criminal breach of trust",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 406: Punishment for criminal breach of trust. Punishment for criminal breach of trust under IPC: imprisonment up to 3 years or fine. Mapped to BNS Section 316. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 316.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 316 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 406",
+      "breach of trust",
+      "misappropriation",
+      "Section 316"
+    ],
+    "related_sections": [
+      "BNS Section 316"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-447",
+    "act": "IPC",
+    "section": "Section 447",
+    "title": "Punishment for criminal trespass",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 447: Punishment for criminal trespass. Punishment for criminal trespass under IPC: imprisonment up to 3 months or fine up to 500 rupees. Mapped to BNS Section 329(3). Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 329(3).",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 329(3) in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 447",
+      "criminal trespass punishment",
+      "illegal entry",
+      "Section 329(3)"
+    ],
+    "related_sections": [
+      "BNS Section 329(3)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-468",
+    "act": "IPC",
+    "section": "Section 468",
+    "title": "Forgery for purpose of cheating",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 468: Forgery for purpose of cheating. Committing forgery intending that the document forged shall be used for cheating: up to 7 years imprisonment. Mapped to BNS Section 336. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 336.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 336 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 468",
+      "forgery",
+      "fake documents",
+      "forged certificate",
+      "paper forgery",
+      "Section 336"
+    ],
+    "related_sections": [
+      "BNS Section 336"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "ipc-section-471",
+    "act": "IPC",
+    "section": "Section 471",
+    "title": "Using as genuine a forged document",
+    "category": "Historical IPC Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Penal Code, 1860 - Section 471: Using as genuine a forged document. Fraudulently or dishonestly using as genuine any document known to be forged. Mapped to BNS Section 338. Corresponding new provision in Bharatiya Nyaya Sanhita, 2023 is Section 338.",
+    "simplified_text": "Historical section under IPC 1860 now repealed and mapped directly to Section 338 in the Bharatiya Nyaya Sanhita, 2023.",
+    "keywords": [
+      "IPC 471",
+      "using forged document",
+      "fake stamp",
+      "fraudulent certificate submission",
+      "Section 338"
+    ],
+    "related_sections": [
+      "BNS Section 338"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+    "publication_date": "1860-10-06",
+    "effective_date": "1862-01-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-154",
+    "act": "CrPC",
+    "section": "Section 154",
+    "title": "Information in cognizable cases",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 154: Information in cognizable cases. First Information Report (FIR) registration mandated for all cognizable offences. Mapped to BNSS Section 173 (which adds Zero FIR and e-FIR). Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 173.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 173 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 154",
+      "FIR",
+      "first information report",
+      "police complaint",
+      "Section 173"
+    ],
+    "related_sections": [
+      "BNSS Section 173"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-41a",
+    "act": "CrPC",
+    "section": "Section 41A",
+    "title": "Notice of appearance before police officer",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 41A: Notice of appearance before police officer. Mandatory notice of appearance in offences punishable with up to 7 years where arrest is not deemed necessary. Mapped to BNSS Section 35(3). Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 35(3).",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 35(3) in the BNSS 2023.",
+    "keywords": [
+      "CrPC 41A",
+      "notice of appearance",
+      "Arnesh Kumar notice",
+      "Section 35(3)"
+    ],
+    "related_sections": [
+      "BNSS Section 35(3)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-161",
+    "act": "CrPC",
+    "section": "Section 161",
+    "title": "Examination of witnesses by police",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 161: Examination of witnesses by police. Police power to examine witnesses during investigation and reduce statements to writing. Statements are unsigned and inadmissible as substantive evidence. Mapped to BNSS Section 180. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 180.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 180 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 161",
+      "police statement",
+      "witness examination",
+      "161 statement",
+      "Section 180"
+    ],
+    "related_sections": [
+      "BNSS Section 180"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-164",
+    "act": "CrPC",
+    "section": "Section 164",
+    "title": "Recording of confessions and statements by Magistrate",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 164: Recording of confessions and statements by Magistrate. Confessions and witness statements recorded by Judicial Magistrates on oath/affirmation. Mandatory for sexual offence victims. Mapped to BNSS Section 183. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 183.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 183 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 164",
+      "magistrate confession",
+      "164 statement",
+      "victim statement on oath",
+      "Section 183"
+    ],
+    "related_sections": [
+      "BNSS Section 183"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-167",
+    "act": "CrPC",
+    "section": "Section 167",
+    "title": "Procedure when investigation cannot be completed in 24 hours (Remand)",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 167: Procedure when investigation cannot be completed in 24 hours (Remand). Remand to police custody or judicial custody, and default statutory bail after 60 or 90 days. Mapped to BNSS Section 187. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 187.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 187 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 167",
+      "remand",
+      "default bail",
+      "statutory bail",
+      "60 days 90 days",
+      "Section 187"
+    ],
+    "related_sections": [
+      "BNSS Section 187"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-437",
+    "act": "CrPC",
+    "section": "Section 437",
+    "title": "When bail may be taken in case of non-bailable offence",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 437: When bail may be taken in case of non-bailable offence. Discretion of Magistrate to grant regular bail in non-bailable cases. Mapped to BNSS Section 480. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 480.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 480 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 437",
+      "regular bail magistrate",
+      "non-bailable bail",
+      "Section 480"
+    ],
+    "related_sections": [
+      "BNSS Section 480"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-438",
+    "act": "CrPC",
+    "section": "Section 438",
+    "title": "Direction for grant of bail to person apprehending arrest (Anticipatory Bail)",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 438: Direction for grant of bail to person apprehending arrest (Anticipatory Bail). Power of High Court or Court of Session to grant anticipatory bail to any person apprehending arrest on accusation of non-bailable offence. Mapped to BNSS Section 482. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 482.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 482 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 438",
+      "anticipatory bail",
+      "pre-arrest bail",
+      "apprehending arrest",
+      "Section 482"
+    ],
+    "related_sections": [
+      "BNSS Section 482"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "crpc-section-439",
+    "act": "CrPC",
+    "section": "Section 439",
+    "title": "Special powers of High Court or Court of Session regarding bail",
+    "category": "Historical CrPC Provision",
+    "record_type": "statute",
+    "text": "Historical Code of Criminal Procedure, 1973 - Section 439: Special powers of High Court or Court of Session regarding bail. Special plenary powers of High Court and Sessions Court to release accused persons on bail or impose conditions. Mapped to BNSS Section 483. Corresponding provision under Bharatiya Nagarik Suraksha Sanhita, 2023 is Section 483.",
+    "simplified_text": "Historical criminal procedure section under CrPC 1973 now replaced by Section 483 in the BNSS 2023.",
+    "keywords": [
+      "CrPC 439",
+      "sessions court bail",
+      "high court bail",
+      "regular bail application",
+      "Section 483"
+    ],
+    "related_sections": [
+      "BNSS Section 483"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+    "publication_date": "1974-01-25",
+    "effective_date": "1974-04-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-65b",
+    "act": "IEA",
+    "section": "Section 65B",
+    "title": "Admissibility of electronic records",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 65B: Admissibility of electronic records. Requirement of electronic certificate to admit computer printouts, CDRs, CCTV clips, or digital media into secondary evidence. Mapped to BSA Section 63. Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 63.",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 63 in BSA 2023.",
+    "keywords": [
+      "IEA 65B",
+      "65B certificate",
+      "electronic evidence",
+      "CCTV admissible",
+      "Section 63"
+    ],
+    "related_sections": [
+      "BSA Section 63"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-25",
+    "act": "IEA",
+    "section": "Section 25",
+    "title": "Confession to police officer not to be proved",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 25: Confession to police officer not to be proved. Absolute bar on proving confessions made to any police officer against an accused person. Mapped to BSA Section 23(1). Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 23(1).",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 23(1) in BSA 2023.",
+    "keywords": [
+      "IEA 25",
+      "police confession bar",
+      "inadmissible statement to police",
+      "Section 23(1)"
+    ],
+    "related_sections": [
+      "BSA Section 23(1)"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-27",
+    "act": "IEA",
+    "section": "Section 27",
+    "title": "How much of information received from accused may be proved (Recovery)",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 27: How much of information received from accused may be proved (Recovery). Exception allowing discovery of distinct facts/weapons recovered in consequence of custodial information. Mapped to BSA Section 23 Proviso. Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 23 Proviso.",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 23 Proviso in BSA 2023.",
+    "keywords": [
+      "IEA 27",
+      "recovery of weapon",
+      "panchnama recovery",
+      "disclosure statement",
+      "Section 23 Proviso"
+    ],
+    "related_sections": [
+      "BSA Section 23 Proviso"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-45",
+    "act": "IEA",
+    "section": "Section 45",
+    "title": "Opinions of experts",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 45: Opinions of experts. Admissibility of expert evidence in science, art, handwriting, and fingerprint identification. Mapped to BSA Section 39. Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 39.",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 39 in BSA 2023.",
+    "keywords": [
+      "IEA 45",
+      "expert opinion",
+      "forensic science report",
+      "handwriting expert",
+      "Section 39"
+    ],
+    "related_sections": [
+      "BSA Section 39"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-113a",
+    "act": "IEA",
+    "section": "Section 113A",
+    "title": "Presumption as to abetment of suicide by a married woman",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 113A: Presumption as to abetment of suicide by a married woman. Presumption of abetment of suicide if a woman commits suicide within seven years of marriage and cruelty is proved. Mapped to BSA Section 117. Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 117.",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 117 in BSA 2023.",
+    "keywords": [
+      "IEA 113A",
+      "presumption suicide married woman",
+      "seven years of marriage",
+      "dowry cruelty",
+      "Section 117"
+    ],
+    "related_sections": [
+      "BSA Section 117"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  },
+  {
+    "id": "iea-section-113b",
+    "act": "IEA",
+    "section": "Section 113B",
+    "title": "Presumption as to dowry death",
+    "category": "Historical Evidence Provision",
+    "record_type": "statute",
+    "text": "Historical Indian Evidence Act, 1872 - Section 113B: Presumption as to dowry death. Mandatory presumption of dowry death if a woman was subjected to cruelty or harassment for dowry soon before her death. Mapped to BSA Section 118. Corresponding provision under Bharatiya Sakshya Adhiniyam, 2023 is Section 118.",
+    "simplified_text": "Historical evidence section under IEA 1872 now replaced by Section 118 in BSA 2023.",
+    "keywords": [
+      "IEA 113B",
+      "presumption dowry death",
+      "soon before death harassment",
+      "Section 118"
+    ],
+    "related_sections": [
+      "BSA Section 118"
+    ],
+    "related_cases": [],
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+    "publication_date": "1872-03-15",
+    "effective_date": "1872-09-01",
+    "historical_law_status": "HISTORICAL",
+    "verification_status": "SOURCE_VERIFIED"
+  }
+]

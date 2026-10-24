@@ -8,7 +8,7 @@ public class CaseDTOs {
 
     public record AnalyzeRequest(
         @NotBlank(message = "Scenario description cannot be blank")
-        @Size(min = 50, max = 5000, message = "Scenario must be between 50 and 5,000 characters")
+        @Size(min = 5, max = 5000, message = "Scenario must be between 5 and 5,000 characters")
         String scenario,
 
         String framework

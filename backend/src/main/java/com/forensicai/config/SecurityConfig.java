@@ -34,6 +34,8 @@ public class SecurityConfig {
                 // Public endpoints
                 .requestMatchers("/api/auth/**").permitAll()
                 .requestMatchers(HttpMethod.GET, "/api/case-studies/**").permitAll()
+                .requestMatchers(HttpMethod.GET, "/api/legal/**").permitAll()
+                .requestMatchers("/api/evidence/**").permitAll()
                 .requestMatchers("/api/feedback", "/api/waitlist").permitAll()
                 .requestMatchers("/v3/api-docs/**", "/swagger-ui/**", "/swagger-ui.html").permitAll()
                 .requestMatchers("/actuator/health", "/actuator/info").permitAll()

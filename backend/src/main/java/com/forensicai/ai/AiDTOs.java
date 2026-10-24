@@ -1,5 +1,9 @@
 package com.forensicai.ai;
 
+import com.fasterxml.jackson.annotation.JsonAlias;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.List;
 import java.util.Map;
 
@@ -11,6 +15,7 @@ public class AiDTOs {
         String requestId
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record SectionDTO(
         String act,
         String section,
@@ -20,6 +25,7 @@ public class AiDTOs {
         double confidence
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record StatusDTO(
         boolean bailable,
         boolean cognizable,
@@ -27,6 +33,7 @@ public class AiDTOs {
         String triableBy
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record IngredientDTO(
         String id,
         String element,
@@ -34,6 +41,7 @@ public class AiDTOs {
         String satisfied
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record ForensicEvidenceDTO(
         String category,
         String item,
@@ -41,12 +49,14 @@ public class AiDTOs {
         String notes
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record DefenseCritiqueDTO(
         String argument,
         String weakness,
         String counter
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record SourceCitationDTO(
         String id,
         String label,
@@ -54,6 +64,7 @@ public class AiDTOs {
         double score
     ) {}
 
+    @JsonIgnoreProperties(ignoreUnknown = true)
     public record AiAnalyzeResponse(
         String caseId,
         String createdAt,
@@ -65,6 +76,38 @@ public class AiDTOs {
         List<DefenseCritiqueDTO> defenseCritique,
         Map<String, List<String>> extractedFacts,
         List<SourceCitationDTO> sources,
-        String disclaimer
-    ) {}
+        String disclaimer,
+
+        @JsonProperty("predictionConfidence")
+        @JsonAlias("prediction_confidence")
+        Double predictionConfidence,
+
+        @JsonProperty("severityAssessment")
+        @JsonAlias("severity_assessment")
+        String severityAssessment,
+
+        @JsonProperty("jurisdiction")
+        String jurisdiction
+    ) {
+        // Compatibility constructor without the 3 extra fields
+        public AiAnalyzeResponse(
+            String caseId,
+            String createdAt,
+            String title,
+            List<SectionDTO> sections,
+            StatusDTO status,
+            List<IngredientDTO> ingredients,
+            List<ForensicEvidenceDTO> forensicEvidence,
+            List<DefenseCritiqueDTO> defenseCritique,
+            Map<String, List<String>> extractedFacts,
+            List<SourceCitationDTO> sources,
+            String disclaimer
+        ) {
+            this(
+                caseId, createdAt, title, sections, status, ingredients,
+                forensicEvidence, defenseCritique, extractedFacts, sources, disclaimer,
+                0.88, "MEDIUM", "State Jurisdiction - Judicial Magistrate First Class / Session Court"
+            );
+        }
+    }
 }

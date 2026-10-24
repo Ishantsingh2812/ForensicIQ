@@ -74,7 +74,7 @@ export const ScenarioForm: React.FC<ScenarioFormProps> = ({ onSubmit, onCancel, 
   };
 
   const charCount = scenario.length;
-  const isTooShort = charCount > 0 && charCount < 50;
+  const isTooShort = charCount > 0 && charCount < 5;
   const isTooLong = charCount > 5000;
 
   return (
@@ -162,7 +162,7 @@ export const ScenarioForm: React.FC<ScenarioFormProps> = ({ onSubmit, onCancel, 
               isTooShort || isTooLong ? 'text-police-crimson font-bold' : 'text-slate-400'
             }`}
           >
-            {charCount} / 5,000 characters (min 50)
+            {charCount} / 5,000 characters (min 5)
           </div>
         </div>
       </div>

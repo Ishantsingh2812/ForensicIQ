@@ -4,7 +4,8 @@ import { validateScenario, validateEmail, validatePassword } from '../lib/valida
 describe('Form Validators', () => {
   it('validates scenario minimum and maximum length', () => {
     expect(validateScenario('').isValid).toBe(false);
-    expect(validateScenario('Too short scenario.').isValid).toBe(false);
+    expect(validateScenario('Hi').isValid).toBe(false);
+    expect(validateScenario('Someone slapped me on a train').isValid).toBe(true);
     
     const validText = 'On October 14, two individuals on a motorcycle intercepted the complainant near Bandra West and brandished a firearm to steal his belongings.';
     expect(validateScenario(validText).isValid).toBe(true);

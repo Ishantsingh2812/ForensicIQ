@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Shield, Sparkles, BookOpen, Crosshair, Menu, X, Sun, Moon, LogIn, UserCheck, LogOut } from 'lucide-react';
+import { Shield, Sparkles, BookOpen, Crosshair, Menu, X, Sun, Moon, LogIn, UserCheck, LogOut, Camera } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 import { Button } from '../ui/Button';
 
@@ -25,6 +25,7 @@ export const Header: React.FC = () => {
     { name: 'Crime Analyzer', href: '/analyzer', icon: <Sparkles className="w-4 h-4 text-evidence-cyan" /> },
     { name: 'Case Studies', href: '/case-studies', icon: <BookOpen className="w-4 h-4 text-crime-amber" /> },
     { name: 'Crime Simulator', href: '/simulator', icon: <Crosshair className="w-4 h-4 text-police-crimson" /> },
+    { name: 'Evidence Studio', href: '/evidence-studio', icon: <Camera className="w-4 h-4 text-cyan-400" /> },
   ];
 
   const isActive = (path: string) => location.pathname === path;
