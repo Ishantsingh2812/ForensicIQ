@@ -67,6 +67,21 @@ class SourceCitation(BaseModel):
     snippet: str
     score: float
 
+class JudicialPrecedent(BaseModel):
+    case_name: str
+    citation: str
+    court: str
+    decision_date: str
+    judgment_url: str
+    material_facts: str
+    legal_issues: List[str]
+    statutory_provisions: List[str]
+    court_holding_reasoning: str
+    relevance_to_incident: str
+    factual_legal_distinctions: str
+    historical_vs_modern_law: Literal["HISTORICAL_IPC", "MODERN_BNS_TRANSITIONAL", "SPECIAL_STATUTE"] = "HISTORICAL_IPC"
+    verification_status: Literal["VERIFIED_OFFICIAL_RECORD", "SOURCE_VERIFIED", "UNVERIFIED"] = "VERIFIED_OFFICIAL_RECORD"
+
 class AnalysisResult(BaseModel):
     caseId: str
     createdAt: str
@@ -90,4 +105,5 @@ class AnalysisResult(BaseModel):
     defenseCritique: List[DefenseCritiqueItem]
     extractedFacts: ExtractedFacts
     sources: List[SourceCitation]
+    related_precedents: List[JudicialPrecedent] = Field(default_factory=list)
     disclaimer: str = "Educational analysis only. Not legal advice. Consult a licensed advocate."

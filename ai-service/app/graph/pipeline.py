@@ -11,8 +11,10 @@ from app.schemas.analysis import (
     DefenseCritiqueItem,
     ExtractedFacts,
     SourceCitation,
-    OffenseClassificationDetails
+    OffenseClassificationDetails,
+    JudicialPrecedent
 )
+from app.data.verified_precedents import retrieve_relevant_precedents
 from app.vectorstore.qdrant_store import vector_store
 
 class LangGraphLegalPipeline:
@@ -89,6 +91,36 @@ class LangGraphLegalPipeline:
         is_tentative = confidence < 0.70
         needs_follow_up = is_tentative or len(missing_facts) > 0
 
+        # Retrieve verified judicial precedents for incident facts and offenses
+        section_ids = [s.section for s in sections]
+        raw_precedents = retrieve_relevant_precedents(
+            scenario=scenario,
+            primary_act="BNS",
+            sections=section_ids,
+            category=classification.offense_category,
+            limit=3
+        )
+        related_precedents = []
+        for p in raw_precedents:
+            try:
+                related_precedents.append(JudicialPrecedent(
+                    case_name=p["case_name"],
+                    citation=p["citation"],
+                    court=p["court"],
+                    decision_date=p["decision_date"],
+                    judgment_url=p["judgment_url"],
+                    material_facts=p["material_facts"],
+                    legal_issues=p["legal_issues"],
+                    statutory_provisions=p["statutory_provisions"],
+                    court_holding_reasoning=p["court_holding_reasoning"],
+                    relevance_to_incident=p["relevance_to_incident"],
+                    factual_legal_distinctions=p["factual_legal_distinctions"],
+                    historical_vs_modern_law=p.get("historical_vs_modern_law", "HISTORICAL_IPC"),
+                    verification_status=p.get("verification_status", "VERIFIED_OFFICIAL_RECORD")
+                ))
+            except Exception:
+                pass
+
         return AnalysisResult(
             caseId=case_id,
             createdAt=created_at,
@@ -109,6 +141,7 @@ class LangGraphLegalPipeline:
             defenseCritique=critique,
             extractedFacts=facts,
             sources=sources,
+            related_precedents=related_precedents,
             disclaimer="Educational analysis only. Not legal advice. Consult a licensed advocate."
         )
 

@@ -15,6 +15,7 @@ import { Home } from './routes/Home';
 import { Analyzer } from './routes/Analyzer';
 import { CaseStudies } from './routes/CaseStudies';
 import { CaseDetail } from './routes/CaseDetail';
+import { CaseStudyEditor } from './routes/CaseStudyEditor';
 import { Simulator } from './routes/Simulator';
 import { EvidenceStudio } from './routes/EvidenceStudio';
 import { Login } from './routes/Login';
@@ -61,6 +62,8 @@ export const App: React.FC = () => {
                   <Route path="/" element={<Home />} />
                   <Route path="/analyzer" element={<Analyzer />} />
                   <Route path="/case-studies" element={<CaseStudies />} />
+                  <Route path="/case-studies/new" element={<CaseStudyEditor />} />
+                  <Route path="/case-studies/:id/edit" element={<CaseStudyEditor />} />
                   <Route path="/case-studies/:slug" element={<CaseDetail />} />
                   <Route path="/simulator" element={<Simulator />} />
                   <Route path="/evidence-studio" element={<EvidenceStudio />} />

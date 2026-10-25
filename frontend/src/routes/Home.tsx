@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import {
   Sparkles,
@@ -14,16 +14,43 @@ import {
   ChevronUp,
   FileText,
   Search,
+  Calendar,
+  Building2,
+  ExternalLink,
 } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
 import { SEO } from '../components/layout/SEO';
 import { mockSampleScenariosList } from '../lib/mocks/analysis';
+import { mockCaseStudies } from '../lib/mocks/cases';
+import { api } from '../lib/api';
+import { CaseStudy } from '../types';
 
 export const Home: React.FC = () => {
   const navigate = useNavigate();
   const [miniScenario, setMiniScenario] = useState('');
   const [openFaq, setOpenFaq] = useState<number | null>(null);
+  const [featuredCases, setFeaturedCases] = useState<CaseStudy[]>([]);
+  const [loadingCases, setLoadingCases] = useState(true);
+
+  useEffect(() => {
+    const loadFeaturedCases = async () => {
+      try {
+        const data = await api.getCaseStudies();
+        if (data && data.length > 0) {
+          setFeaturedCases(data.slice(0, 3));
+        } else {
+          setFeaturedCases(mockCaseStudies.slice(0, 3));
+        }
+      } catch (err) {
+        console.warn('Using local fallback for featured case studies', err);
+        setFeaturedCases(mockCaseStudies.slice(0, 3));
+      } finally {
+        setLoadingCases(false);
+      }
+    };
+    loadFeaturedCases();
+  }, []);
 
   const toggleFaq = (index: number) => {
     setOpenFaq(openFaq === index ? null : index);
@@ -254,6 +281,82 @@ export const Home: React.FC = () => {
                 Launch Simulator &rarr;
               </Link>
             </div>
+          </div>
+        </section>
+
+        {/* FEATURED LANDMARK CASE STUDIES SECTION */}
+        <section className="w-full py-16 px-4 sm:px-6 lg:px-8 max-w-7xl border-t border-forensic-800">
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+            <div>
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-crime-amber/15 text-crime-amber border border-crime-amber/30 mb-3">
+                <Gavel className="w-3.5 h-3.5" />
+                Verified Judicial Precedents
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+                Featured Landmark Case Studies
+              </h2>
+              <p className="text-sm text-slate-400 mt-1 max-w-2xl">
+                Ground your legal learning in verified Supreme Court of India precedents. Examine statutory reasoning, evidentiary burdens, and IPC-to-BNS statutory transitions.
+              </p>
+            </div>
+            <Link
+              to="/case-studies"
+              className="inline-flex items-center gap-2 text-sm text-evidence-cyan font-bold hover:underline shrink-0"
+            >
+              Explore Full Case Archive &rarr;
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {featuredCases.map((cs) => {
+              const courtName = cs.court || cs.jurisdiction || 'Supreme Court of India';
+              const year = cs.decisionYear || (cs.date ? cs.date.substring(0, 4) : 'Landmark');
+              const summaryText = cs.overview || cs.summary || '';
+              const linkUrl = `/case-studies/${cs.slug || cs.id}`;
+
+              return (
+                <div
+                  key={cs.id}
+                  className="bg-forensic-900 border border-forensic-800 rounded-2xl p-6 shadow-xl flex flex-col justify-between hover:border-evidence-cyan/40 transition-all group"
+                >
+                  <div className="space-y-3">
+                    <div className="flex items-center justify-between gap-2">
+                      <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-evidence-cyan/15 text-evidence-cyan border border-evidence-cyan/30 uppercase tracking-wider">
+                        {cs.category}
+                      </span>
+                      <div className="flex items-center gap-1 text-[11px] text-slate-400 font-mono">
+                        <Calendar className="w-3 h-3 text-slate-500" />
+                        <span>{year}</span>
+                      </div>
+                    </div>
+
+                    <h3 className="text-base font-bold text-white group-hover:text-evidence-cyan transition-colors line-clamp-2">
+                      {cs.title}
+                    </h3>
+
+                    <div className="flex items-center gap-1 text-xs text-slate-400">
+                      <Building2 className="w-3.5 h-3.5 text-slate-500 shrink-0" />
+                      <span className="truncate">{courtName}</span>
+                    </div>
+
+                    <p className="text-xs text-slate-300 leading-relaxed line-clamp-3">
+                      {summaryText}
+                    </p>
+                  </div>
+
+                  <div className="pt-5 mt-4 border-t border-forensic-800/80 flex items-center justify-between">
+                    <Link
+                      to={linkUrl}
+                      className="w-full inline-flex items-center justify-center gap-2 px-4 py-2 rounded-xl text-xs font-bold text-white bg-forensic-800 hover:bg-forensic-700 hover:text-evidence-cyan border border-forensic-700 transition-colors shadow-sm"
+                    >
+                      <FileText className="w-3.5 h-3.5" />
+                      Read Case Study
+                      <ArrowRight className="w-3.5 h-3.5 ml-auto" />
+                    </Link>
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </section>
 

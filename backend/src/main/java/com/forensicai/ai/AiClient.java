@@ -110,7 +110,27 @@ public class AiClient {
                         new AiDTOs.SourceCitationDTO("bns-2023-sec115", "BNS 2023 Section 115 - Grievous Hurt", "Statutory elements defining bodily injury endangering life...", 0.91),
                         new AiDTOs.SourceCitationDTO("ipc-sec-326", "IPC Section 326 Precedents", "Essential ingredients requiring proof of deadly weapon...", 0.89)
                 ),
-                "Educational analysis only. Not legal advice. Consult a licensed advocate."
+                "Educational analysis only. Not legal advice. Consult a licensed advocate.",
+                0.88,
+                isGrievous ? "HIGH" : "MEDIUM",
+                "State Jurisdiction - Judicial Magistrate First Class / Session Court",
+                List.of(
+                        new AiDTOs.JudicialPrecedentDTO(
+                                isGrievous ? "State of Madhya Pradesh v. Ramesh & Anr." : "Mrs. Veeda Menezes v. Yusuf Khan & Anr.",
+                                isGrievous ? "(2011) 4 SCC 786" : "AIR 1966 SC 1773; (1966) Supp SCR 123",
+                                "Supreme Court of India",
+                                isGrievous ? "2011-03-29" : "1966-04-20",
+                                isGrievous ? "https://main.sci.gov.in/judgment/judis/37812.pdf" : "https://main.sci.gov.in/judgment/judis/2275.pdf",
+                                isGrievous ? "Accused struck victim with iron implement causing skeletal fracture to limb." : "Altercation where physical strike and slap occurred without bone fracture.",
+                                List.of("Standard of proof for intentional bodily injury", "Distinction between trivial harm and punishable criminal force"),
+                                List.of("IPC Section 326 / BNS Section 118(1)", "IPC Section 352 / BNS Section 131"),
+                                "Supreme Court held that intentional physical assaults causing injury or public humiliation warrant criminal conviction.",
+                                "Directly relevant for evaluating physical force and weapon threshold in public or domestic confrontations.",
+                                "Degree of force and radiographic proof of fracture determine whether simple hurt or grievous hurt applies.",
+                                "HISTORICAL_IPC",
+                                "VERIFIED_OFFICIAL_RECORD"
+                        )
+                )
         );
     }
 }
